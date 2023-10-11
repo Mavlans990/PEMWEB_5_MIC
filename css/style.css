@@ -157,7 +157,7 @@ html {
   font-family: "Jost", sans-serif;
   font-size: 25px;
   font-weight: 400;
-  text-align: center;
+  /* text-align: center; */
 }
 
 .p-text-3 {
@@ -206,6 +206,14 @@ html {
   font-size: 14px;
   font-weight: 600;
   margin-left: 12px;
+}
+
+.h-text-7 {
+  font-family: "Just Another Hand", cursive;
+  font-size: 60px;
+  font-weight: 100;
+  display: flex;
+  justify-content: center;
 }
 
 .f-h-text {
@@ -422,6 +430,16 @@ html {
 }
 
 /* Home */
+
+/* About */
+
+.container-about {
+  background-image: url("../image/contact/Group\ 16.png");
+  background-size: cover;
+  padding: 70px 0 50px 0;
+}
+
+/* About */
 
 /* Contact Us */
 
