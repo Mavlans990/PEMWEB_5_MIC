@@ -133,6 +133,11 @@ html {
   width: 50%;
 }
 
+.col-4 {
+  flex: 0 0 auto;
+  width: 33.333333%;
+}
+
 .col-3 {
   flex: 0 0 auto;
   width: 25%;
@@ -157,7 +162,7 @@ html {
   font-family: "Jost", sans-serif;
   font-size: 25px;
   font-weight: 400;
-  /* text-align: center; */
+  text-align: center;
 }
 
 .p-text-3 {
@@ -212,8 +217,14 @@ html {
   font-family: "Just Another Hand", cursive;
   font-size: 60px;
   font-weight: 100;
-  display: flex;
-  justify-content: center;
+  margin-left: 300px;
+}
+
+.h-text-8 {
+  font-family: "Inter", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
 }
 
 .f-h-text {
@@ -439,7 +450,63 @@ html {
   padding: 70px 0 50px 0;
 }
 
+.container-about p {
+  font-family: "Jost", sans-serif;
+  font-size: 22px;
+  margin-left: 300px;
+  text-align: left;
+  width: 50%;
+  font-weight: 400;
+}
+
 /* About */
+
+/* Product */
+
+.container-product {
+  background-color: white;
+  padding: 10px 0;
+}
+
+.nav-product {
+  display: flex;
+  align-items: center;
+  padding: 20px 80px 30px 80px;
+}
+
+.nav-product a {
+  text-decoration: none;
+}
+
+.nav-product p {
+  margin: 0;
+  padding: 0 20px;
+}
+
+.nav-product p:nth-child(3) {
+  font-weight: 900;
+}
+
+.container-color-product {
+  /* padding: 10px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.color-product {
+  width: 30px;
+  height: 30px;
+  margin: 0.8rem;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 50%;
+}
+
+.info-product h1 {
+  margin: 15px 0;
+}
+
+/* Product */
 
 /* Contact Us */
 
