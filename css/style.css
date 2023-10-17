@@ -18,6 +18,10 @@ html {
   display: flex;
 }
 
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
 .align-i-center {
   align-items: center;
 }
@@ -28,6 +32,14 @@ html {
 
 .justify-c-between {
   justify-content: space-between;
+}
+
+.justify-c-around {
+  justify-content: space-around;
+}
+
+.justify-c-evenly {
+  justify-content: space-evenly;
 }
 
 .link-1 {
@@ -70,6 +82,89 @@ html {
 
 .link-3:hover {
   background-color: rgb(3, 165, 157);
+}
+
+.button-1 {
+  color: rgba(0, 0, 0, 0.6);
+  font-family: "Actor", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  padding: 10px 20px;
+  margin: 20px 5px;
+  background: #f0f0f0;
+  border: 0;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.button-1:hover {
+  color: white;
+  background: black;
+}
+
+.button-2 {
+  color: rgb(255, 255, 255);
+  font-family: "Actor", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  padding: 15px 150px;
+  margin: 20px 0 20px 50px;
+  background: #000000;
+  border: 0;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.button-3 {
+  color: rgba(0, 0, 0, 0.4);
+  font-family: "Actor", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  padding: 10px 200px;
+  margin: 20px 0;
+  border: 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+  background-color: #00000000;
+  cursor: pointer;
+}
+
+.button-3.active {
+  color: black;
+  border-bottom: 1px solid black;
+}
+
+.button-4 {
+  color: rgba(0, 0, 0, 0.6);
+  font-family: "Actor", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  padding: 10px 20px;
+  background: #f0f0f0;
+  border: 0;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.button-5 {
+  background-color: #00000000;
+  color: black;
+  font-family: "Actor", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  padding: 15px 50px;
+  margin-bottom: 60px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.button-5:hover {
+  border: 1px solid rgb(0, 0, 0);
 }
 
 .container-icon-link {
@@ -128,9 +223,19 @@ html {
   margin-left: calc(-0.5 * var(--bs-gutter-x));
 }
 
+.col-8 {
+  flex: 0 0 auto;
+  width: 66.666667%;
+}
+
 .col-6 {
   flex: 0 0 auto;
   width: 50%;
+}
+
+.col-5 {
+  flex: 0 0 auto;
+  width: 41.666667%;
 }
 
 .col-4 {
@@ -225,6 +330,14 @@ html {
   font-size: 20px;
   font-weight: 700;
   text-align: center;
+}
+
+.h-text-9 {
+  font-family: "Actor", sans-serif;
+  color: black;
+  font-size: 20px;
+  font-weight: 500;
+  margin-right: auto;
 }
 
 .f-h-text {
@@ -507,6 +620,91 @@ html {
 }
 
 /* Product */
+
+/* Detail Produk */
+
+.star-product {
+  padding: 15px 0;
+}
+
+.star-product > *:nth-child(1),
+.star-product > *:nth-child(5) {
+  padding-right: 4px; /* Padding kanan untuk elemen pertama */
+}
+
+.star-product > *:nth-child(2),
+.star-product > *:nth-child(3),
+.star-product > *:nth-child(4) {
+  padding: 0 4px;
+}
+
+.star-product > *:nth-child(6) {
+  padding-left: 4px;
+}
+
+.color-detail .d-flex > :nth-child(1),
+.size-detail .d-flex > :nth-child(1) {
+  margin-left: 0;
+}
+
+.add-detail {
+  display: flex;
+  margin: 15px 0;
+}
+
+.add-detail .add-1 > :nth-child(1) {
+  padding: 12px 20px;
+  background-color: #f0f0f0;
+  border-radius: 20px 0 0 20px;
+}
+
+.add-detail .add-1 > :nth-child(2) {
+  padding: 4.5px 20px;
+  background-color: #f0f0f0;
+}
+
+.add-detail .add-1 > :nth-child(3) {
+  padding: 12px 20px;
+  background-color: #f0f0f0;
+  border-radius: 0 20px 20px 0;
+}
+
+.collapsibleContent {
+  padding: 30px 50px;
+}
+
+.collapsibleContent .nav-rating button {
+  margin: 0 5px;
+}
+
+.nav-content .container-content {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  padding: 10px 40px;
+}
+
+.nav-content .container-content p:first-of-type {
+  color: rgba(0, 0, 0, 0.6);
+  margin: 20px 0 40px 0;
+  /* display: none; */
+}
+
+.nav-content .container-content p:nth-of-type(2) {
+  color: rgba(0, 0, 0, 0.6);
+  margin: 20px 0 20px 0;
+  /* display: none; */
+}
+
+.nav-content .row {
+  padding-top: 20px;
+  padding-bottom: 60px;
+}
+
+.nav-content .row .col-6 {
+  width: 48%;
+}
+
+/* Detail Produk */
 
 /* Contact Us */
 
