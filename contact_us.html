@@ -20,13 +20,11 @@
       <div class="container-navbar">
         <ul>
           <li><a href="index.html">Home</a></li>
-          <li><a href="product.html">Product</a></li>
+          <li class="prod-navbar"><a>Product</a></li>
           <li><a href="about.html">About</a></li>
-          <li><a href="#">Contact</a></li>
-          <li>
-            <a href="#"
-              ><img src="image/Icon/search.png" alt="" width="20"
-            /></a>
+          <li><a href="contact_us.html">Contact</a></li>
+          <li id="search-icon">
+            <a href="#"><img src="image/Icon/search.png" alt="" width="20" /></a>
           </li>
         </ul>
       </div>
@@ -42,6 +40,17 @@
         <img src="image/Icon/Buy.png" alt="" width="40" style="margin: 0 5px" />
       </div>
     </nav>
+  <div id="search-box" style="display: none; margin-left: 780px">
+    <input type="text" placeholder="Search Here" id="search-input" />
+  </div>
+    <div class="product-list" style="display: none;">
+      <ul>
+        <li><a href="t-shirt.html">T-Shirt</a></li>
+        <li><a href="headwear.html">Headwear</a></li>
+        <li><a href="lanyard.html">Lanyard</a></li>
+        <li><a href="totebag.html">Totebag</a></li>
+      </ul>
+    </div>
     <section class="container-contact">
       <h1 class="h-text-5">CONTACT US</h1>
       <div class="row">
@@ -160,5 +169,6 @@
         <p class="f-p-text-3">CraftedMerch ©2023, All Rights Reserved</p>
       </div>
     </footer>
+    <script src="js/script.js"></script>
   </body>
 </html>

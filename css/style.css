@@ -457,7 +457,19 @@ html {
     }
   }
 }
+#search-box {
+  position: absolute;
+  background: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  display: none;
+}
 
+#search-input {
+  width: 100%;
+  border: none;
+  outline: none;
+}
 .navbar li a {
   font-family: "Inter", sans-serif;
   color: black;
@@ -621,7 +633,7 @@ html {
 
 /* Product */
 
-/* Detail Produk */
+/* Detail Produk 1*/
 
 .star-product {
   padding: 15px 0;
@@ -757,6 +769,35 @@ html {
 footer {
   background-color: white;
   padding: 100px 150px 10px 150px;
+}
+.product-list {
+  position: absolute;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  z-index: 1;
+  margin-left: 300px;
+}
+
+.product-list ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  
+}
+
+.product-list li {
+  margin-top: -10px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  padding: 10px 90px;
+}
+.product-list li a{
+  text-decoration: none;
+  color: black;
 }
 
 /* Footer */

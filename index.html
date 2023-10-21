@@ -12,18 +12,49 @@
     />
     <!-- CSS style -->
     <link rel="stylesheet" href="css/style.css" />
+    <style>
+      .slider {
+        width: 100%;
+        height: 500px;
+        position: relative;
+        margin: auto;
+        overflow-x: scroll;
+        overflow-y: hidden;
+      }
+
+      .slider::-webkit-scrollbar {
+        display: none;
+      }
+
+      .slider .slide {
+        display: flex;
+        position: absolute;
+        left: 0;
+        transition: 0.3s left ease-in-out;
+        margin-left: 100px;
+      }
+
+      .slider .item {
+        margin-right: 10px;
+      }
+
+      .slider .item:last-child {
+        margin-right: 0;
+      }
+    </style>
     <title>Craft Merch Customized - Home</title>
   </head>
+
   <body>
     <nav class="navbar">
       <img src="image/Icon/logo.png" alt="" width="70" />
       <div class="container-navbar">
         <ul>
           <li><a href="#">Home</a></li>
-          <li><a href="product.html">Product</a></li>
+          <li class="prod-navbar"><a>Product</a></li>
           <li><a href="about.html">About</a></li>
           <li><a href="contact_us.html">Contact</a></li>
-          <li>
+          <li id="search-icon">
             <a href="#"
               ><img src="image/Icon/search.png" alt="" width="20"
             /></a>
@@ -42,6 +73,20 @@
         <img src="image/Icon/Buy.png" alt="" width="40" style="margin: 0 5px" />
       </div>
     </nav>
+    <div id="search-box" style="display: none; margin-left: 780px">
+      <input type="text" placeholder="Search Here" id="search-input" />
+    </div>
+    <div id="search-box" style="display: none; margin-left: 780px">
+      <input type="text" placeholder="Search Here" id="search-input" />
+    </div>
+    <div class="product-list" style="display: none">
+      <ul>
+        <li><a href="t-shirt.html">T-Shirt</a></li>
+        <li><a href="headwear.html">Headwear</a></li>
+        <li><a href="lanyard.html">Lanyard</a></li>
+        <li><a href="totebag.html">Totebag</a></li>
+      </ul>
+    </div>
     <section
       class="container-fluid"
       style="padding: 60px 60px 350px 60px; height: 500px"
@@ -100,32 +145,36 @@
         <h1 class="h-text-2">Our Categories Product</h1>
         <img src="image/home/line.png" alt="" style="margin-left: 20px" />
       </div>
-      <div class="image-product-home">
-        <div class="image-product">
-          <div class="wrap-image">
-            <img src="image/home/product-1.png" alt="" />
+
+      <div class="slider" id="slider">
+        <div class="slide" id="slide">
+          <div class="image-product">
+            <div class="wrap-image">
+              <img src="image/home/product-1.png" alt="" />
+            </div>
+            <h1 class="h-text-3" style="text-align: center">T-Shirt</h1>
           </div>
-          <h1 class="h-text-3" style="text-align: center">T-Shirt</h1>
-        </div>
-        <div class="image-product">
-          <div class="wrap-image">
-            <img src="image/home/product-2.png" alt="" />
+          <div class="image-product">
+            <div class="wrap-image">
+              <img src="image/home/product-2.png" alt="" />
+            </div>
+            <h1 class="h-text-3" style="text-align: center">Headwear</h1>
           </div>
-          <h1 class="h-text-3" style="text-align: center">Headwear</h1>
-        </div>
-        <div class="image-product">
-          <div class="wrap-image">
-            <img src="image/home/product-3.png" alt="" />
+          <div class="image-product">
+            <div class="wrap-image">
+              <img src="image/home/product-3.png" alt="" />
+            </div>
+            <h1 class="h-text-3" style="text-align: center">Lanyard</h1>
           </div>
-          <h1 class="h-text-3" style="text-align: center">Lanyard</h1>
-        </div>
-        <div class="image-product">
-          <div class="wrap-image">
-            <img src="image/home/product-4.png" alt="" />
+          <div class="image-product">
+            <div class="wrap-image">
+              <img src="image/home/product-4.png" alt="" />
+            </div>
+            <h1 class="h-text-3" style="text-align: center">Totebag</h1>
           </div>
-          <h1 class="h-text-3" style="text-align: center">Totebag</h1>
         </div>
       </div>
+
       <p class="p-text-2">
         Terbuat dari material berkualitas sehingga awet dan nyaman saat dipakai.
         <br />
@@ -199,5 +248,6 @@
         <p class="f-p-text-3">CraftedMerch ©2023, All Rights Reserved</p>
       </div>
     </footer>
+    <script src="js/script.js"></script>
   </body>
 </html>

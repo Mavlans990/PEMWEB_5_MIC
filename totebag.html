@@ -20,13 +20,11 @@
       <div class="container-navbar">
         <ul>
           <li><a href="index.html">Home</a></li>
-          <li><a href="#">Product</a></li>
+          <li class="prod-navbar"><a>Product</a></li>
           <li><a href="about.html">About</a></li>
           <li><a href="contact_us.html">Contact</a></li>
-          <li>
-            <a href="#"
-              ><img src="image/Icon/search.png" alt="" width="20"
-            /></a>
+          <li id="search-icon">
+            <a href="#"><img src="image/Icon/search.png" alt="" width="20" /></a>
           </li>
         </ul>
       </div>
@@ -42,6 +40,17 @@
         <img src="image/Icon/Buy.png" alt="" width="40" style="margin: 0 5px" />
       </div>
     </nav>
+  <div id="search-box" style="display: none; margin-left: 780px;margin-top: -30px;">
+    <input type="text" placeholder="Search Here" id="search-input" />
+  </div>
+    <div class="product-list" style="display: none; margin-top: -30px">
+      <ul>
+        <li><a href="t-shirt.html">T-Shirt</a></li>
+        <li><a href="headwear.html">Headwear</a></li>
+        <li><a href="lanyard.html">Lanyard</a></li>
+        <li><a href="totebag.html">Totebag</a></li>
+      </ul>
+    </div>
     <section class="container-product">
       <div class="nav-product">
         <p class="f-p-text"><a href="#">Home</a></p>
@@ -49,14 +58,15 @@
         <p class="f-p-text"><a href="#">Product</a></p>
         <!-- <p class="f-p-text">Product</p> -->
         <img src="image/Icon/right.png" alt="" width="8" height="15" />
-        <p class="f-p-text"><a href="#">T-shirt</a></p>
-        <!-- <p class="f-p-text">T-shirt</p> -->
+        <p class="f-p-text"><a href="#">Totebag</a></p>
+        <!-- <p class="f-p-text">Totebag</p> -->
       </div>
       <div class="kolom-product">
         <div class="row">
           <div class="col-4 d-flex justify-c-center">
             <div>
-              <img src="image/product/product-1.png" alt="" height="400" />
+              <a href="detail-totebag.html" style="text-decoration: none; color: black;">
+              <img src="image/product/Totebag 2.jpg" alt="" height="400" />
               <div class="container-color-product">
                 <div
                   class="color-product"
@@ -85,50 +95,14 @@
               </div>
               <div class="info-product">
                 <h1 class="h-text-8">
-                  New States Apparel <br />
-                  Premium Cotton T-shirt
+                    Totebag Camilia Moon <br />
                 </h1>
-                <h1 class="p-text-2" style="font-weight: 300">IDR 50.000</h1>
+                <h1 class="p-text-2" style="font-weight: 300">IDR 45.000</h1>
               </div>
+            </a>
             </div>
           </div>
           <div class="col-4 d-flex justify-c-center">
-            <div>
-              <img src="image/product/product-2.png" alt="" height="400" />
-              <div class="container-color-product">
-                <div
-                  class="color-product"
-                  style="background-color: white"
-                ></div>
-                <div
-                  class="color-product"
-                  style="background-color: black"
-                ></div>
-                <div
-                  class="color-product"
-                  style="background-color: #37aec8"
-                ></div>
-                <div
-                  class="color-product"
-                  style="background-color: #2ea178"
-                ></div>
-                <div
-                  class="color-product"
-                  style="background-color: #ffdd55"
-                ></div>
-                <div
-                  class="color-product"
-                  style="background-color: #4f4631"
-                ></div>
-              </div>
-              <div class="info-product">
-                <h1 class="h-text-8">
-                  New States Apparel <br />
-                  Heavy Weight Long
-                </h1>
-                <h1 class="p-text-2" style="font-weight: 300">IDR 75.000</h1>
-              </div>
-            </div>
           </div>
         </div>
       </div>
@@ -187,5 +161,6 @@
         <p class="f-p-text-3">CraftedMerch ©2023, All Rights Reserved</p>
       </div>
     </footer>
+    <script src="js/script.js"></script>
   </body>
 </html>
