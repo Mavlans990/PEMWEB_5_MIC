@@ -109,32 +109,44 @@ Dengan penjelasan ini, batasan-batasan desain dan implementasi menjadi lebih jel
 Ruang lingkup Website "Crafted Merch Customized" meliputi bagian-bagian yang terdapat dalam Website "Crafted Merch Customized" yang telah dibuat. Berikut deskripsi singkat mengenai ruang lingkup Website Pribadi ini:
 
 **1. Home**
+
 Pada halaman home akan menampilkan “Crafted Merch Customized”, “Our Categories Product”, dan “We Print Your Idea.”
 
-![HOME](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/cfe2faf8-3a07-4d8a-9441-514fe68979b5)
+<img width="221" alt="Screenshot 2023-10-23 203454" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/f0cb86c2-21ec-4602-b7ed-3d048676dd57">
 
 **2. Product**
-Pada halaman Product kami akan menampilkan halaman shop.
 
-![PRODUCT1](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/a1b826bc-2ad8-4b7d-8fa5-1eb96c14c2e0)
+Pada halaman Product kami akan menampilkan halaman shop, seperti : T-Shirt, Headware, Lanyard, Totebag.
 
-![PRODUCT2](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/474e47c0-f68c-4fcb-8410-48dfa9ca3f9e)
-
-![PRODUCT3](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/571c0b14-dc6e-465e-9f2b-3790a3f4b776)
-
-![PRODUCT4](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/9aaeb7b3-3ee2-4a7c-901e-d70bb2bf7faa)
-
-![PRODUCT5](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/0a46fcd0-ffa9-4a66-86f9-a20cd92278ef)
+1.	Product T-Shirt
+   
+    <img width="539" alt="Screenshot 2023-10-23 204120" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/38126a78-4465-4421-a4a9-6d9814ce1afc">
+    
+2.	Product Headware
+   
+   <img width="482" alt="Screenshot 2023-10-23 204139" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/bdc1df56-c0d1-4a2b-af63-c426aa710844">
+   
+3.	Product Lanyard
+   
+   <img width="560" alt="Screenshot 2023-10-23 204248" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/64394528-5a15-4e1f-8a45-5f79f527155a">
+   
+4.	Product Totebag
+   
+   <img width="500" alt="Screenshot 2023-10-23 204203" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/36243264-b4d8-484f-a51f-d29a68ce5bb3">
 
 **3. Contact Us**
+
 Pada halaman Contact kami akan menampilkan halaman untuk login dan registrasi, “how did you find us”, phone, dan email untuk menghubungi kami.
 
-![CONTACT US](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/c7c23218-91aa-4b9a-91d8-5e08e83f96d8)
+<img width="383" alt="Screenshot 2023-10-23 203520" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/25a60d85-33df-463d-99a7-d96c7c6e9655">
+
 
 **4. About**
+
 Pada halaman About akan menceritakan tentang diri kami, yaitu “Crafted Merch Customized” adalah brand yang bisa memadukan kualitas tinggi dengan kreativitas tak terbatas. Menawarkan berbagai macam merchandise, mulai dari baju kaos, hoodie, topi, lanyard, hingga totebag, yang dapat disesuaikan sepenuhnya dengan desain pilihan pelanggan.
 
-![ABOUT](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/74bb77ac-5055-4922-b158-fcd11b4b6264)
+<img width="381" alt="Screenshot 2023-10-23 203536" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/3c84c923-169b-4130-b0bc-5b736368e67e">
+
 
 **3.2. Hardware Interface**
 
@@ -250,64 +262,46 @@ Berikut ini daftar istilah dan akronim yang dipakai pada dokumen SRS ini.
 
 **a. HTML Halaman Home:**
 
-1. `<!DOCTYPE html>`: Ini adalah deklarasi tipe dokumen (Document Type Declaration) yang mengindikasikan bahwa halaman ini adalah dokumen HTML5.
+1. `<!DOCTYPE html>` : Ini adalah deklarasi tipe dokumen HTML yang menunjukkan bahwa ini adalah halaman HTML.
 
-2. `<html lang="en">`: Ini adalah elemen awal yang menandakan awal dari dokumen HTML. Atribut `lang="en"` menunjukkan bahwa halaman ini menggunakan bahasa Inggris.
+2. `<html lang="en">` : Elemen ini adalah elemen pembuka untuk dokumen HTML. Atribut lang menunjukkan bahwa bahasa dokumen adalah Inggris.
 
-3. `<head>`: Ini adalah bagian kepala dari halaman HTML, yang berisi informasi meta dan pengaturan halaman yang tidak ditampilkan kepada pengguna.
+3. `<head>`: Ini adalah bagian kepala dokumen HTML yang berisi berbagai elemen metadata dan referensi ke sumber daya eksternal.
 
-   - `<meta charset="UTF-8" />`: Mendefinisikan pengkodean karakter UTF-8 untuk halaman, yang umum digunakan untuk mendukung karakter internasional.
+   - `<meta charset="UTF-8">` : Menentukan bahwa karakter set dokumen adalah UTF-8, yang mendukung berbagai karakter.
+   - `<meta name="viewport" content="width=device-width, initial-scale=1.0">` : Mengatur tampilan halaman agar responsif pada berbagai perangkat dengan menyesuaikan lebar tampilan dan skala awal.
+   - Komentar HTML `(<!-- Google Font -->)` digunakan untuk memberikan komentar dalam kode HTML.
+   - `<link rel="preconnect" href="https://fonts.googleapis.com">` dan `<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>` : Mengoptimalkan koneksi ke server Google Fonts untuk pengunduhan font yang lebih cepat.
+   - `<link href="https://fonts.googleapis.com/css2?..." rel="stylesheet">` : Mendefinisikan berbagai font dari Google Fonts yang akan digunakan di halaman web Anda.
+   - `<link rel="stylesheet" href="css/style.css">` : Menghubungkan halaman dengan berkas CSS eksternal yang disebut "style.css".
+   - `<title>Craft Merch Customized - Home</title>` : Menetapkan judul halaman web yang akan ditampilkan di tab peramban.
 
-   - `<meta name="viewport" content="width=device-width, initial-scale=1.0" />`: Ini adalah meta tag yang mengatur tampilan halaman pada perangkat seluler dengan lebar yang sesuai dengan lebar perangkat dan faktor skala awal set ke 1.
+4. `<body>` : Ini adalah elemen utama yang berisi konten utama dari halaman web.
 
-   - Komentar HTML (`<!-- Google Font -->`): Ini adalah komentar HTML yang memberikan informasi tambahan tentang elemen-elemen berikutnya. Dalam hal ini, ini menunjukkan bahwa Anda akan memuat font dari Google Fonts.
+5. `<nav class="navbar">` : Ini adalah elemen navigasi yang berisi menu dan logo situs.
+   - `<img src="image/Icon/logo.png" alt="" width="70">` : Menampilkan logo situs sebagai gambar dengan lebar 70 piksel.
+   - `<div class="container-navbar">` : Ini adalah elemen div yang berisi daftar menu navigasi.
+   - Daftar menu navigasi terdiri dari elemen `<ul>` , `<li>` , dan tautan `<a>'`, termasuk tautan pencarian dengan gambar ikon.
+   - Elemen `<div class="d-flex align-i-center">` berisi tautan "Login" dan "Register" serta gambar-gambar ikon.
 
-   - Beberapa elemen `<link>`: Ini adalah elemen yang digunakan untuk memuat font dari Google Fonts. Anda mendefinisikan beberapa jenis font yang akan digunakan dalam halaman.
+6. `<div id="search-box" style="display: none; margin-left: 780px">`: Ini adalah kotak pencarian yang awalnya disembunyikan dengan atribut style, tetapi akan muncul saat dicari. Berisi elemen input teks untuk melakukan pencarian.
 
-   - `<link rel="stylesheet" href="css/style.css" />`: Ini adalah elemen `<link>` lain yang memuat file stylesheet eksternal "style.css" yang digunakan untuk mengatur tampilan halaman.
+7. `div class="product-list" style="display: none">` : Ini adalah daftar produk yang awalnya disembunyikan dan akan muncul saat item "Product" dihover. Daftar ini termasuk tautan ke halaman produk berbeda.
 
-   - `<title>Document</title>`: Ini adalah judul halaman web yang akan ditampilkan di tab atau jendela browser.
+8. `<section class="container-fluid" style="padding: 60px 60px 350px 60px; height: 500px">` : Ini adalah elemen bagian atau "section" pertama yang berisi konten utama halaman.
+   - Di dalamnya, terdapat elemen baris `(<div class="row">)` yang dibagi menjadi dua kolom `(<div class="col-6">)`, yang masing-masing berisi judul, deskripsi, dan tautan.
 
-4. `<body>`: Ini adalah bagian utama dari halaman web yang berisi konten yang akan ditampilkan kepada pengguna.
+9. `<section class="container-fluid" style="padding: 4rem 0; background: linear-gradient(...)">` : Ini adalah elemen "section" kedua yang berisi konten lainnya.
+   - Ini juga memiliki elemen judul, gambar, dan teks yang menjelaskan kategori produk.
 
-   - `<nav class="navbar">`: Ini adalah elemen navigasi dengan kelas "navbar," yang berisi logo dan menu navigasi.
+10. `<footer>` : Ini adalah elemen penutup halaman yang berisi informasi kontak dan tautan sosial media.
+    - Terdapat empat kolom dengan informasi yang berbeda, termasuk tautan ke halaman produk, tautan "Contact Us", dan informasi kontak.
+    - Terdapat tautan ke sosial media (Twitter, Facebook, dan Instagram).
+    - Elemen terakhir adalah tanda hak cipta dan informasi hak cipta halaman.
 
-     - `<img src="image/Icon/logo.png" alt="" width="70" />`: Ini adalah gambar logo dengan atribut `alt` dan lebar yang ditentukan.
+11. `<script src="js/script.js"></script>` : Ini adalah tag script yang menghubungkan halaman web ke file JavaScript eksternal "script.js" untuk mengatur perilaku interaktif di halaman.
 
-     - `<div class="container-navbar">`: Ini adalah elemen div yang berisi daftar (unordered list) menu navigasi.
-
-       - `<ul>`: Ini adalah daftar tak terurut yang berisi elemen-elemen menu.
-
-         - `<li><a href="#">Home</a></li>`: Ini adalah elemen daftar (list item) yang berisi tautan menu "Home."
-
-         - `<li><a href="product.html">Product</a></li>`: Ini adalah elemen daftar yang berisi tautan ke halaman "product.html" dengan teks "Product."
-
-         - `<li><a href="about.html">About</a></li>`: Ini adalah elemen daftar yang berisi tautan ke halaman "about.html" dengan teks "About."
-
-         - `<li><a href="contact_us.html">Contact</a></li>`: Ini adalah elemen daftar yang berisi tautan ke halaman "contact_us.html" dengan teks "Contact."
-
-         - `<li><a href="#"><img src="image/Icon/search.png" alt="" width="20" /></a></li>`: Ini adalah elemen daftar yang berisi tautan dengan gambar pencarian.
-
-     - `<div class="d-flex align-i-center">`: Ini adalah elemen div yang menggunakan fleksibilitas CSS untuk mengatur tampilan konten di dalamnya.
-
-       - `<a href="#" class="link-1">Login</a>`: Ini adalah tautan dengan kelas "link-1" dan teks "Login."
-
-       - `<a href="#" class="link-2">Register</a>`: Ini adalah tautan dengan kelas "link-2" dan teks "Register."
-
-       - Beberapa elemen gambar (img) yang menampilkan ikon-ikon dengan atribut-atribut yang mengatur tampilan.
-
-5. `<section class="container-fluid">`: Ini adalah elemen seksi dengan kelas "container-fluid" yang berisi konten utama halaman.
-
-   - `<div class="row">`: Ini adalah elemen div dengan kelas "row" yang digunakan dalam sistem grid untuk mengatur tata letak.
-
-     - `<div class="col-6 d-flex align-i-center justify-c-center">`: Ini adalah elemen div dengan kelas "col-6" yang digunakan dalam sistem grid untuk mengatur tata letak. Ini berisi teks dan judul.
-
-       - Beberapa elemen teks, judul (h1), dan paragraf (p) yang menjelaskan produk atau layanan yang ditawarkan.
-
-     - `<div class="col-6">`: Ini adalah elemen div dengan kelas "col-6" yang digunakan dalam sistem grid untuk mengatur tata letak. Ini berisi gambar-gambar yang mendukung konten.
-
-       - Beberapa elemen gambar (img) yang menampilkan berbagai gambar dengan atribut-atribut yang mengatur tampilan.
-
+    
 **b. HTML Halaman About:**
 
 1. `<!DOCTYPE html>`: Ini adalah deklarasi tipe dokumen (Document Type Declaration) yang mendefinisikan bahwa halaman ini adalah dokumen HTML5.
