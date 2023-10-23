@@ -124,28 +124,28 @@ Pada halaman Product kami akan menampilkan halaman shop, seperti : T-Shirt, Head
     
 2.	Product Headware
    
-   <img width="482" alt="Screenshot 2023-10-23 204139" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/bdc1df56-c0d1-4a2b-af63-c426aa710844">
+     <img width="482" alt="Screenshot 2023-10-23 204139" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/bdc1df56-c0d1-4a2b-af63-c426aa710844">
    
 3.	Product Lanyard
    
-   <img width="560" alt="Screenshot 2023-10-23 204248" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/64394528-5a15-4e1f-8a45-5f79f527155a">
+     <img width="560" alt="Screenshot 2023-10-23 204248" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/64394528-5a15-4e1f-8a45-5f79f527155a">
    
 4.	Product Totebag
    
-   <img width="500" alt="Screenshot 2023-10-23 204203" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/36243264-b4d8-484f-a51f-d29a68ce5bb3">
+     <img width="500" alt="Screenshot 2023-10-23 204203" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/36243264-b4d8-484f-a51f-d29a68ce5bb3">
 
 **3. Contact Us**
 
 Pada halaman Contact kami akan menampilkan halaman untuk login dan registrasi, “how did you find us”, phone, dan email untuk menghubungi kami.
 
-<img width="383" alt="Screenshot 2023-10-23 203520" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/25a60d85-33df-463d-99a7-d96c7c6e9655">
+    <img width="383" alt="Screenshot 2023-10-23 203520" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/25a60d85-33df-463d-99a7-d96c7c6e9655">
 
 
 **4. About**
 
 Pada halaman About akan menceritakan tentang diri kami, yaitu “Crafted Merch Customized” adalah brand yang bisa memadukan kualitas tinggi dengan kreativitas tak terbatas. Menawarkan berbagai macam merchandise, mulai dari baju kaos, hoodie, topi, lanyard, hingga totebag, yang dapat disesuaikan sepenuhnya dengan desain pilihan pelanggan.
 
-<img width="381" alt="Screenshot 2023-10-23 203536" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/3c84c923-169b-4130-b0bc-5b736368e67e">
+      <img width="381" alt="Screenshot 2023-10-23 203536" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/3c84c923-169b-4130-b0bc-5b736368e67e">
 
 
 **3.2. Hardware Interface**
