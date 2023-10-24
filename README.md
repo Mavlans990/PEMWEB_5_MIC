@@ -1,6 +1,6 @@
-# PemwebFinalProject
+# PEMPROGRAMAN WEB FINAL PROJECT
 
-# 2022C-Kelompok5
+# Kelompok 5 < MI 2022 C
 
 **Software Requirements Specification**
 
@@ -114,6 +114,8 @@ Pada halaman home akan menampilkan “Crafted Merch Customized”, “Our Catego
 
 <img width="221" alt="Screenshot 2023-10-23 203454" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/f0cb86c2-21ec-4602-b7ed-3d048676dd57">
 
+
+
 **2. Product**
 
 Pada halaman Product kami akan menampilkan halaman shop, seperti : T-Shirt, Headware, Lanyard, Totebag.
@@ -121,31 +123,36 @@ Pada halaman Product kami akan menampilkan halaman shop, seperti : T-Shirt, Head
 1.	Product T-Shirt
    
     <img width="539" alt="Screenshot 2023-10-23 204120" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/38126a78-4465-4421-a4a9-6d9814ce1afc">
+
     
 2.	Product Headware
    
      <img width="482" alt="Screenshot 2023-10-23 204139" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/bdc1df56-c0d1-4a2b-af63-c426aa710844">
+
    
 3.	Product Lanyard
    
      <img width="560" alt="Screenshot 2023-10-23 204248" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/64394528-5a15-4e1f-8a45-5f79f527155a">
+
    
 4.	Product Totebag
    
      <img width="500" alt="Screenshot 2023-10-23 204203" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/36243264-b4d8-484f-a51f-d29a68ce5bb3">
 
+
 **3. Contact Us**
 
 Pada halaman Contact kami akan menampilkan halaman untuk login dan registrasi, “how did you find us”, phone, dan email untuk menghubungi kami.
 
-    <img width="383" alt="Screenshot 2023-10-23 203520" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/25a60d85-33df-463d-99a7-d96c7c6e9655">
-
+  <img width="383" alt="Screenshot 2023-10-23 203520" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/b138a44b-95d3-4eb4-8934-48ea0394cd63">
+    
 
 **4. About**
 
 Pada halaman About akan menceritakan tentang diri kami, yaitu “Crafted Merch Customized” adalah brand yang bisa memadukan kualitas tinggi dengan kreativitas tak terbatas. Menawarkan berbagai macam merchandise, mulai dari baju kaos, hoodie, topi, lanyard, hingga totebag, yang dapat disesuaikan sepenuhnya dengan desain pilihan pelanggan.
 
-      <img width="381" alt="Screenshot 2023-10-23 203536" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/3c84c923-169b-4130-b0bc-5b736368e67e">
+   <img width="381" alt="Screenshot 2023-10-23 203536" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/05a75f88-c9af-4522-839a-fb1e0569526c">
+
 
 
 **3.2. Hardware Interface**
@@ -191,7 +198,8 @@ Bagian ini akan menggambarkan kebutuhan fungsional untuk produk "Crafted Merch C
 
 Gambaran use case diagramnya dari functional requirement yang didapatkan.
 
-![USE CASE DIAGRAM](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/90e9628c-7b9b-45ea-b342-0f2628f384e9)
+![usecase website](https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/178fa134-8ca4-4483-ad03-f0a60ca79ccf)
+
 
 **4.2. Penjelasan Use Case**
 
@@ -252,11 +260,13 @@ Berikut ini daftar istilah dan akronim yang dipakai pada dokumen SRS ini.
 
 **Flowchart Sistem input product**
 
-<img width="303" alt="Flowchart Sistem Input Produk" src="https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/c371afb7-55db-4efc-baf8-cd7ca30057b3">
+  <img width="349" alt="Flowchart sistem input product" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/c5a5408b-c19b-4aca-a195-15b48a66e2e2">
 
+  
 **Flowchart sistem pemesanan**
 
-<img width="295" alt="Flowchart Sistem Pemesanan" src="https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/8fbb7e72-8963-45b1-9268-e80b5123ea28">
+  <img width="393" alt="flowchart sistem pemesanan" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/aa72ecf3-42a8-47f0-aaa3-12802e443603">
+
 
 **Lampiran C : Penjelasan HTML**
 
@@ -268,22 +278,31 @@ Berikut ini daftar istilah dan akronim yang dipakai pada dokumen SRS ini.
 
 3. `<head>`: Ini adalah bagian kepala dokumen HTML yang berisi berbagai elemen metadata dan referensi ke sumber daya eksternal.
 
-   - `<meta charset="UTF-8">` : Menentukan bahwa karakter set dokumen adalah UTF-8, yang mendukung berbagai karakter.
-   - `<meta name="viewport" content="width=device-width, initial-scale=1.0">` : Mengatur tampilan halaman agar responsif pada berbagai perangkat dengan menyesuaikan lebar tampilan dan skala awal.
-   - Komentar HTML `(<!-- Google Font -->)` digunakan untuk memberikan komentar dalam kode HTML.
-   - `<link rel="preconnect" href="https://fonts.googleapis.com">` dan `<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>` : Mengoptimalkan koneksi ke server Google Fonts untuk pengunduhan font yang lebih cepat.
-   - `<link href="https://fonts.googleapis.com/css2?..." rel="stylesheet">` : Mendefinisikan berbagai font dari Google Fonts yang akan digunakan di halaman web Anda.
-   - `<link rel="stylesheet" href="css/style.css">` : Menghubungkan halaman dengan berkas CSS eksternal yang disebut "style.css".
-   - `<title>Craft Merch Customized - Home</title>` : Menetapkan judul halaman web yang akan ditampilkan di tab peramban.
-
+     - `<meta charset="UTF-8">` : Menentukan bahwa karakter set dokumen adalah UTF-8, yang mendukung berbagai karakter.
+     
+     - `<meta name="viewport" content="width=device-width, initial-scale=1.0">` : Mengatur tampilan halaman agar responsif pada berbagai perangkat dengan menyesuaikan lebar tampilan dan skala awal.
+     
+     - Komentar HTML `(<!-- Google Font -->)` digunakan untuk memberikan komentar dalam kode HTML.
+     
+     - `<link rel="preconnect" href="https://fonts.googleapis.com">` dan `<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>` : Mengoptimalkan koneksi ke server Google Fonts untuk pengunduhan font yang lebih cepat.
+     
+     - `<link href="https://fonts.googleapis.com/css2?..." rel="stylesheet">` : Mendefinisikan berbagai font dari Google Fonts yang akan digunakan di halaman web Anda.
+     
+     - `<link rel="stylesheet" href="css/style.css">` : Menghubungkan halaman dengan berkas CSS eksternal yang disebut "style.css".
+     
+     - `<title>Craft Merch Customized - Home</title>` : Menetapkan judul halaman web yang akan ditampilkan di tab peramban.
+  
 4. `<body>` : Ini adalah elemen utama yang berisi konten utama dari halaman web.
 
 5. `<nav class="navbar">` : Ini adalah elemen navigasi yang berisi menu dan logo situs.
-   - `<img src="image/Icon/logo.png" alt="" width="70">` : Menampilkan logo situs sebagai gambar dengan lebar 70 piksel.
-   - `<div class="container-navbar">` : Ini adalah elemen div yang berisi daftar menu navigasi.
-   - Daftar menu navigasi terdiri dari elemen `<ul>` , `<li>` , dan tautan `<a>'`, termasuk tautan pencarian dengan gambar ikon.
-   - Elemen `<div class="d-flex align-i-center">` berisi tautan "Login" dan "Register" serta gambar-gambar ikon.
-
+       - `<img src="image/Icon/logo.png" alt="" width="70">` : Menampilkan logo situs sebagai gambar dengan lebar 70 piksel.
+     
+       - `<div class="container-navbar">` : Ini adalah elemen div yang berisi daftar menu navigasi.
+     
+       - Daftar menu navigasi terdiri dari elemen `<ul>` , `<li>` , dan tautan `<a>'`, termasuk tautan pencarian dengan gambar ikon.
+     
+       - Elemen `<div class="d-flex align-i-center">` berisi tautan "Login" dan "Register" serta gambar-gambar ikon.
+  
 6. `<div id="search-box" style="display: none; margin-left: 780px">`: Ini adalah kotak pencarian yang awalnya disembunyikan dengan atribut style, tetapi akan muncul saat dicari. Berisi elemen input teks untuk melakukan pencarian.
 
 7. `div class="product-list" style="display: none">` : Ini adalah daftar produk yang awalnya disembunyikan dan akan muncul saat item "Product" dihover. Daftar ini termasuk tautan ke halaman produk berbeda.
@@ -292,14 +311,18 @@ Berikut ini daftar istilah dan akronim yang dipakai pada dokumen SRS ini.
    - Di dalamnya, terdapat elemen baris `(<div class="row">)` yang dibagi menjadi dua kolom `(<div class="col-6">)`, yang masing-masing berisi judul, deskripsi, dan tautan.
 
 9. `<section class="container-fluid" style="padding: 4rem 0; background: linear-gradient(...)">` : Ini adalah elemen "section" kedua yang berisi konten lainnya.
-   - Ini juga memiliki elemen judul, gambar, dan teks yang menjelaskan kategori produk.
+    
+   - Ini juga memiliki elemen `judul, gambar, dan teks` yang menjelaskan kategori produk.
 
-10. `<footer>` : Ini adalah elemen penutup halaman yang berisi informasi kontak dan tautan sosial media.
+11. `<footer>` : Ini adalah elemen penutup halaman yang berisi informasi kontak dan tautan sosial media.
+    
     - Terdapat empat kolom dengan informasi yang berbeda, termasuk tautan ke halaman produk, tautan "Contact Us", dan informasi kontak.
+      
     - Terdapat tautan ke sosial media (Twitter, Facebook, dan Instagram).
+      
     - Elemen terakhir adalah tanda hak cipta dan informasi hak cipta halaman.
 
-11. `<script src="js/script.js"></script>` : Ini adalah tag script yang menghubungkan halaman web ke file JavaScript eksternal "script.js" untuk mengatur perilaku interaktif di halaman.
+12. `<script src="js/script.js"></script>` : Ini adalah tag script yang menghubungkan halaman web ke file JavaScript eksternal "script.js" untuk mengatur perilaku interaktif di halaman.
 
     
 **b. HTML Halaman About:**
@@ -310,31 +333,40 @@ Berikut ini daftar istilah dan akronim yang dipakai pada dokumen SRS ini.
 
 3.` <head>` : Bagian kepala dokumen HTML yang berisi berbagai elemen metadata dan referensi ke sumber daya eksternal.
 
-        o	`<meta charset="UTF-8">` : Mendefinisikan karakter set dokumen sebagai UTF-8, yang mendukung berbagai karakter Unicode.
+        o	`<meta charset="UTF-8">` 
+          Mendefinisikan karakter set dokumen sebagai UTF-8, yang mendukung berbagai karakter Unicode.
         
-        o	`<meta name="viewport" content="width=device-width, initial-scale=1.0">` : Mengatur tampilan halaman agar responsif pada berbagai perangkat dengan menyesuaikan lebar tampilan dan skala awal.
+        o	`<meta name="viewport" content="width=device-width, initial-scale=1.0">` 
+          Mengatur tampilan halaman agar responsif pada berbagai perangkat dengan menyesuaikan lebar tampilan dan skala awal.
         
         o	Komentar HTML `(<!-- Google Font -->)` digunakan untuk memberikan komentar dalam kode HTML.
         
-        o	`<link rel="preconnect" href="https://fonts.googleapis.com"> dan <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>` : Meningkatkan efisiensi pengunduhan font dengan melakukan prekoneksi ke server Google Fonts.
+        o	`<link rel="preconnect" href="https://fonts.googleapis.com"> dan <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>` 
+          Meningkatkan efisiensi pengunduhan font dengan melakukan prekoneksi ke server Google Fonts.
         
-        o	`<link href="https://fonts.googleapis.com/css2?..." rel="stylesheet">` : Mendefinisikan berbagai font dari Google Fonts yang akan digunakan di halaman web Anda.
+        o	`<link href="https://fonts.googleapis.com/css2?..." rel="stylesheet">` 
+          Mendefinisikan berbagai font dari Google Fonts yang akan digunakan di halaman web Anda.
         
-        o	`<link rel="stylesheet" href="css/style.css">` : Menghubungkan halaman dengan berkas CSS eksternal yang disebut "style.css".
+        o	`<link rel="stylesheet" href="css/style.css">` 
+          Menghubungkan halaman dengan berkas CSS eksternal yang disebut "style.css".
         
-        o	`<title>Craft Merch Customized - About</title>` : Menetapkan judul halaman web yang akan ditampilkan di tab peramban.
+        o	`<title>Craft Merch Customized - About</title>` 
+          Menetapkan judul halaman web yang akan ditampilkan di tab peramban.
 
 4. `<body>` : Ini adalah elemen utama yang berisi konten utama dari halaman web. Semua konten web ditampilkan di dalamnya.
 
 5. `<nav class="navbar" style="margin-bottom: 30px">`: Ini adalah elemen navigasi yang berisi menu dan logo situs, serta menggunakan atribut style untuk mengatur margin bawahnya.
 
-      o	`<img src="image/Icon/logo.png" alt="" width="70">` : Menampilkan logo situs sebagai gambar dengan lebar 70 piksel.
+      -	`<img src="image/Icon/logo.png" alt="" width="70">`
+          Menampilkan logo situs sebagai gambar dengan lebar 70 piksel.
    
-      o	`<div class="container-navbar">` : Ini adalah elemen div yang berisi daftar menu navigasi.
+      -	`<div class="container-navbar">`
+          Ini adalah elemen div yang berisi daftar menu navigasi.
    
-      o	Daftar menu navigasi terdiri dari elemen `<ul>` , `<li>` , dan tautan `<a>` , termasuk tautan pencarian dengan gambar ikon.
+      -	Daftar menu navigasi terdiri dari elemen `<ul>` , `<li>` , dan tautan `<a>`
+        termasuk tautan pencarian dengan gambar ikon.
    
-      o	Elemen `<div class="d-flex align-i-center">` berisi tautan "Login" dan "Register" serta gambar-gambar ikon.
+      -	Elemen `<div class="d-flex align-i-center">` berisi tautan `"Login"` dan `"Register"` serta gambar-gambar ikon.
 
 7. `<div id="search-box" style="display: none; margin-left: 780px; margin-top: -30px;">` : Ini adalah kotak pencarian yang awalnya disembunyikan dengan atribut style. Kotak ini memiliki elemen input teks untuk melakukan pencarian.
 
@@ -342,17 +374,22 @@ Berikut ini daftar istilah dan akronim yang dipakai pada dokumen SRS ini.
 
 9. `<section class="container-about">` : Ini adalah elemen "section" yang digunakan untuk mengelompokkan konten "About" dalam halaman.
 
-      o	`<div class="row">` : Elemen ini adalah baris yang mengelompokkan dua kolom dalam tata letak.
+   -	`<div class="row">` :
+       Elemen ini adalah baris yang mengelompokkan dua kolom dalam tata letak.
    
-      o	`<div class="col-6">` : Ini adalah kolom pertama yang berisi teks tentang Crafted Merch Customized.
+   -	`<div class="col-6">` :
+       Ini adalah kolom pertama yang berisi teks tentang Crafted Merch Customized.
    
-      o	`<h1 class="h-text-7">` Crafted Merch Customized</h1>: Ini adalah judul teks.
+   -	`<h1 class="h-text-7">` Crafted Merch Customized</h1>`
+       Ini adalah judul teks.
    
-      o	Paragraf teks yang menjelaskan produk yang ditawarkan oleh Crafted Merch Customized.
+   -	Paragraf teks yang menjelaskan produk yang ditawarkan oleh Crafted Merch Customized.
    
-      o	`<div class="col-6" style="display: flex; justify-content: center">` : Ini adalah kolom kedua yang berisi gambar yang ditampilkan di tengah dengan menggunakan CSS untuk mengatur tata letaknya.
+   -	`<div class="col-6" style="display: flex; justify-content: center">`
+       Ini adalah kolom kedua yang berisi gambar yang ditampilkan di tengah dengan menggunakan CSS untuk mengatur tata letaknya.
    
-      o	`<img src="image/about/product.png" alt="" />` : Ini adalah gambar yang ditampilkan di dalam kolom.
+   -	`<img src="image/about/product.png" alt="" />`
+       Ini adalah gambar yang ditampilkan di dalam kolom.
 
 9. `<footer style="background-color: rgba(102, 195, 163, 0.111)">` : Ini adalah elemen penutup halaman yang berisi informasi kontak dan tautan sosial media. Latar belakangnya diberi warna menggunakan CSS.
       -	Informasi kontak dan tautan media sosial.
@@ -372,15 +409,20 @@ Berikut ini daftar istilah dan akronim yang dipakai pada dokumen SRS ini.
 
 3.`<head>` : Elemen ini berisi informasi meta tentang halaman web, seperti karakter set dan pengaturan viewport.
 
-      - `<meta charset="UTF-8">` : Ini mengatur karakter set halaman ke UTF-8, yang mendukung berbagai karakter internasional.
+      - `<meta charset="UTF-8">` 
+        Ini mengatur karakter set halaman ke UTF-8, yang mendukung berbagai karakter internasional.
 
-      -	`<meta name="viewport" content="width=device-width, initial-scale=1.0">` : Ini mengatur tampilan responsif dengan lebar sesuai dengan lebar perangkat (width=device-width) dan skala awal (initial-scale=1.0).
+      -	`<meta name="viewport" content="width=device-width, initial-scale=1.0">` 
+        Ini mengatur tampilan responsif dengan lebar sesuai dengan lebar perangkat (width=device-width) dan skala awal (initial-scale=1.0).
 
-      -	`<link>` untuk Google Font: Ini adalah beberapa tautan untuk mengimpor font dari Google Fonts. Ini memungkinkan Anda menggunakan berbagai jenis font dalam halaman Anda.
+      -	`<link>` untuk Google Font 
+        Ini adalah beberapa tautan untuk mengimpor font dari Google Fonts. Ini memungkinkan Anda menggunakan berbagai jenis font dalam halaman Anda.
 
-      -	`<link>` untuk CSS: Ini adalah tautan ke file CSS eksternal `("css/style.css")` yang mengatur tampilan dan gaya halaman.
+      -	`<link>` untuk CSS
+        Ini adalah tautan ke file CSS eksternal `("css/style.css")` yang mengatur tampilan dan gaya halaman.
 
-      -	`<title>` : Ini mengatur judul halaman web yang akan ditampilkan pada tab browser.
+      -	`<title>` 
+        Ini mengatur judul halaman web yang akan ditampilkan pada tab browser.
 
 9. `<body>` : Elemen <body> berisi semua konten yang akan ditampilkan pada halaman web.
 
@@ -391,39 +433,40 @@ Berikut ini daftar istilah dan akronim yang dipakai pada dokumen SRS ini.
 12. Tautan `<a>`dalam `<nav>` : Ini adalah tautan menu ke halaman lain dalam situs.
 
 13. `div class="d-flex align-i-center"` : Ini adalah div yang mengelompokkan tautan "Login" dan "Register" dengan ikon.
-        -	`<a href="#" class="link-1">Login</a>` : Ini adalah tautan ke halaman login.
+      -	`<a href="#" class="link-1">Login</a>` : Ini adalah tautan ke halaman login.
 
-        -	`<a href="#" class="link-2">Register</a>` : Ini adalah tautan ke halaman registrasi.
+      -	`<a href="#" class="link-2">Register</a>` : Ini adalah tautan ke halaman registrasi.
 
-            -	Gambar-gambar yang menampilkan garis vertikal (Line 1) dan gambar belanja (Buy).
+      - Gambar-gambar yang menampilkan garis vertikal `(Line 1)` dan gambar belanja `(Buy).`
 
 14. `<div id="search-box">` : Ini adalah div yang digunakan untuk menampilkan kotak pencarian yang semula tersembunyi (display: none).
 
 15. `<section class="container-contact">` : Ini adalah elemen `<section>`yang mengelompokkan konten terkait dengan "Contact Us."
 
-        -	`<h1 class="h-text-5">CONTACT US</h1>` : Ini adalah elemen heading level 1 (judul) dengan kelas "h-text-5" yang menampilkan teks "CONTACT US."
+        -	`<h1 class="h-text-5">CONTACT US</h1>`
+            Ini adalah elemen heading level 1 (judul) dengan kelas "h-text-5" yang menampilkan teks "CONTACT US."
 
-        -`	<div class="row">` : Ini adalah div dengan kelas "row" yang digunakan untuk mengelompokkan elemen dalam satu baris.
+        - `<div class="row">`
+           Ini adalah div dengan kelas "row" yang digunakan untuk mengelompokkan elemen dalam satu baris.
     
-        -	`<div class="col-6 kolom-input">` : Ini adalah div dengan kelas "col-6 kolom-input" yang mewakili kolom input dalam bentuk formulir.
+        -	`<div class="col-6 kolom-input">`
+            Ini adalah div dengan kelas "col-6 kolom-input" yang mewakili kolom input dalam bentuk formulir.
 
- 16. `<form action="">` : Ini adalah elemen formulir yang memiliki atribut action kosong, yang berarti formulir ini belum diarahkan ke URL tertentu ketika diajukan.
+ 17. `<form action="">` : Ini adalah elemen formulir yang memiliki atribut action kosong, yang berarti formulir ini belum diarahkan ke URL tertentu ketika diajukan.
 
-17. Beberapa elemen `<input>` : Ini adalah elemen input yang memungkinkan pengguna memasukkan informasi. Ada tiga input untuk "Nama," "Email," dan "Phone Number."
+18. Beberapa elemen `<input>` : Ini adalah elemen input yang memungkinkan pengguna memasukkan informasi. Ada tiga input untuk "Nama," "Email," dan "Phone Number."
 
-18. `<select name="" id="" class="input-contact-select">` : Ini adalah elemen dropdown (pilihan) dengan atribut name dan id kosong. Ini mungkin digunakan untuk memilih bagaimana pengguna menemukan situs web ini. Namun, elemen ini tidak memiliki opsi (options) yang terdefinisi.
+19. `<select name="" id="" class="input-contact-select">` : Ini adalah elemen dropdown (pilihan) dengan atribut name dan id kosong. Ini mungkin digunakan untuk memilih bagaimana pengguna menemukan situs web ini. Namun, elemen ini tidak memiliki opsi (options) yang terdefinisi.
 
-19. `<button type="submit">SEND</button>` : Ini adalah tombol "SEND" yang mungkin digunakan untuk mengirimkan formulir. Ini akan memerlukan JavaScript atau layanan server untuk menangani pengiriman formulir.
-  
-        -	Ada juga sejumlah elemen <div> yang mengandung ikon telepon, ikon Instagram, dan alamat email serta kontennya.
+20. `<button type="submit">SEND</button>` : Ini adalah tombol "SEND" yang mungkin digunakan untuk mengirimkan formulir. Ini akan memerlukan JavaScript atau layanan server untuk menangani pengiriman formulir. Ada juga sejumlah elemen `<div>` yang mengandung ikon telepon, ikon Instagram, dan alamat email serta kontennya.
 
-20. Bagian yang di-comment `(<!-- ... -->)` : Ini adalah bagian yang di-comment (diarsir) yang tidak akan ditampilkan di halaman web. Ada kode yang di-comment yang mungkin awalnya ditujukan untuk menampilkan elemen tertentu, tetapi saat ini tidak aktif.
+21. Bagian yang di-comment `(<!-- ... -->)` : Ini adalah bagian yang di-comment (diarsir) yang tidak akan ditampilkan di halaman web. Ada kode yang di-comment yang mungkin awalnya ditujukan untuk menampilkan elemen tertentu, tetapi saat ini tidak aktif.
 
-21. `<section style="height: 50px"></section>` : Ini adalah elemen <section> yang menambahkan jarak tinggi 50 piksel di antara konten. Ini digunakan untuk memberikan ruang di antara bagian-bagian halaman.
+22. `<section style="height: 50px"></section>` : Ini adalah elemen <section> yang menambahkan jarak tinggi 50 piksel di antara konten. Ini digunakan untuk memberikan ruang di antara bagian-bagian halaman.
 
-22. `<footer>` : Ini adalah elemen `<footer>` yang berisi informasi dan tautan tambahan yang sering terdapat di bagian bawah halaman web.
+23. `<footer>` : Ini adalah elemen `<footer>` yang berisi informasi dan tautan tambahan yang sering terdapat di bagian bawah halaman web.
 
-23. `<script src="js/script.js"></script>` : Ini adalah tautan ke file JavaScript eksternal `("js/script.js")` yang akan memuat fungsi dan perilaku tambahan ke halaman web.
+24. `<script src="js/script.js"></script>` : Ini adalah tautan ke file JavaScript eksternal `("js/script.js")` yang akan memuat fungsi dan perilaku tambahan ke halaman web.
 
 **d. HTML Halaman Product:**
 
@@ -435,45 +478,47 @@ Berikut penjelasan  pada halaman T-Shirt :
 
 2. `<html lang="en">` : Ini adalah elemen root (paling atas) dari halaman web. Atribut lang digunakan untuk menentukan bahasa dokumen, dalam hal ini, bahasa Inggris.
 
-3.`<head>` : Ini adalah bagian dari dokumen yang berisi informasi tentang dokumen itu sendiri, seperti karakter set, judul halaman, dan tautan ke berkas CSS dan font.
+3. `<head>` : Ini adalah bagian dari dokumen yang berisi informasi tentang dokumen itu sendiri, seperti karakter set, judul halaman, dan tautan ke berkas CSS dan font.
 
-        -	`<meta charset="UTF-8" />` : Ini adalah meta tag yang menentukan bahwa karakter set yang digunakan dalam halaman adalah UTF-8, yang mendukung sebagian besar karakter dan simbol dunia.
+  --> 	`<meta charset="UTF-8" />`  
+        Ini adalah meta tag yang menentukan bahwa karakter set yang digunakan dalam halaman adalah UTF-8, yang mendukung sebagian besar karakter dan simbol dunia.
 
-         -	`<meta name="viewport" content="width=device-width, initial-scale=1.0" />` : Meta tag ini digunakan untuk mengatur tampilan situs web pada perangkat bergerak. Ini menginstruksikan perangkat untuk mengatur lebar halaman sesuai dengan lebar perangkat, dan tingkatkan skala tampilan awal menjadi 1.
+  --> 	`<meta name="viewport" content="width=device-width, initial-scale=1.0" />` 
+      Meta tag ini digunakan untuk mengatur tampilan situs web pada perangkat bergerak. Ini menginstruksikan perangkat untuk mengatur lebar halaman sesuai dengan lebar perangkat, dan tingkatkan skala tampilan awal menjadi 1.
 
-          -	Tautan ke Google Fonts: Ini adalah tautan ke Google Fonts yang memuat jenis huruf yang akan digunakan dalam halaman web.
+  -->	Tautan ke Google Fonts: Ini adalah tautan ke Google Fonts yang memuat jenis huruf yang akan digunakan dalam halaman web.
 
-           -	`<link rel="stylesheet" href="css/style.css" />` : Ini adalah tautan ke berkas CSS eksternal `(style.css)` yang akan mengatur tampilan halaman web.
+  -->	`<link rel="stylesheet" href="css/style.css" />` 
+      Ini adalah tautan ke berkas CSS eksternal `(style.css)` yang akan mengatur tampilan halaman web.
 
-          -	`<title>Craft Merch Customized - Product</title>` : Ini adalah judul halaman yang akan ditampilkan di tab browser.
+  --> `<title>Craft Merch Customized - Product</title>` 
+      Ini adalah judul halaman yang akan ditampilkan di tab browser.
 
 4. `<body>` : Ini adalah elemen yang berisi semua konten yang akan ditampilkan di halaman web.
 
-        -	`<nav class="navbar" style="padding-bottom: 30px">` : Ini adalah elemen navigasi (navbar) yang berisi logo dan menu navigasi.
+   -	`<nav class="navbar" style="padding-bottom: 30px">` : Ini adalah elemen navigasi (navbar) yang berisi logo dan menu navigasi.
 
-        -	`<img src="image/Icon/logo.png" alt="" width="70" />` : Ini adalah gambar logo.
+    -	`<img src="image/Icon/logo.png" alt="" width="70" />` : Ini adalah gambar logo.
 
 5. `<div class="container-navbar">` : Ini adalah div yang mengelompokkan elemen-elemen menu navigasi.
 
-        - Daftar yang berisi tautan menu seperti "Home," "Product," "About," dan "Contact."
+   -->  Daftar yang berisi tautan menu seperti `"Home," "Product," "About," dan "Contact."`
+   --> Beberapa tautan menu memiliki kelas `"prod-navbar."`
+   --> Ada juga ikon pencarian yang muncul saat di-klik. Sejumlah tautan login, registrasi, dan gambar lainnya.
 
-        -	Beberapa tautan menu memiliki kelas "prod-navbar."
+7. `<div id="search-box" style="display: none; margin-left: 780px; margin-top: -30px;">` : Ini adalah kotak pencarian yang awalnya tersembunyi (display: none) dan akan muncul saat diaktifkan. Terdapat elemen input yang digunakan untuk memasukkan kata kunci pencarian.
 
-        -	Ada juga ikon pencarian yang muncul saat di-klik. Sejumlah tautan login, registrasi, dan gambar lainnya.
+8. `<div class="product-list" style="display: none; margin-top: -30px">` : Ini adalah daftar produk yang awalnya tersembunyi dan akan muncul saat diaktifkan. Ini berisi daftar tautan ke halaman produk seperti "T-Shirt," "Headwear," "Lanyard," dan "Totebag."
 
-6. `<div id="search-box" style="display: none; margin-left: 780px; margin-top: -30px;">` : Ini adalah kotak pencarian yang awalnya tersembunyi (display: none) dan akan muncul saat diaktifkan. Terdapat elemen input yang digunakan untuk memasukkan kata kunci pencarian.
+9. `<section class="container-product">` : Ini adalah elemen bagian (section) yang mengelompokkan konten produk.
 
-7. `<div class="product-list" style="display: none; margin-top: -30px">` : Ini adalah daftar produk yang awalnya tersembunyi dan akan muncul saat diaktifkan. Ini berisi daftar tautan ke halaman produk seperti "T-Shirt," "Headwear," "Lanyard," dan "Totebag."
+10. `<div class="nav-product">` : Ini adalah div yang berisi breadcrumb (navigasi jalur) yang menunjukkan jalur menu. Misalnya, "Home," "Product," "T-shirt."
 
-8. `<section class="container-product">` : Ini adalah elemen bagian (section) yang mengelompokkan konten produk.
+11. `<div class="kolom-product">` : Ini adalah div yang berisi produk yang akan ditampilkan dalam kolom.
 
-9. `<div class="nav-product">` : Ini adalah div yang berisi breadcrumb (navigasi jalur) yang menunjukkan jalur menu. Misalnya, "Home," "Product," "T-shirt."
+    -	Dua kolom produk dengan gambar, daftar warna, dan informasi produk seperti nama dan harga.
 
-10. `<div class="kolom-product">` : Ini adalah div yang berisi produk yang akan ditampilkan dalam kolom.
-
-              o	Dua kolom produk dengan gambar, daftar warna, dan informasi produk seperti nama dan harga.
-
-              o	Setiap produk juga memiliki tautan ke halaman detail produk terkait.
+    -	Setiap produk juga memiliki tautan ke halaman detail produk terkait.
 
 5. `<footer>` : Ini adalah elemen footer yang berisi informasi tambahan dan tautan di bagian bawah halaman web.
 
@@ -482,49 +527,258 @@ Berikut penjelasan  pada halaman T-Shirt :
 
 **e. CSS**
 
-1. **Pengaturan Global**:
+**1.	Reset Default Margins dan Padding**
 
-   - Bagian pertama dari kode CSS dimulai dengan pengaturan global. Ini mencakup pengaturan margin dan padding menjadi 0 untuk semua elemen di halaman web, termasuk elemen-elemen seperti `div`, `p`, `h1`, `ul`, `li`, dan lainnya.
+    `{
+     margin: 0;
+     padding: 0;
+   }`
+   
+Potongan kode di atas menghilangkan margin dan padding default dari semua elemen HTML. Ini sering digunakan sebagai langkah awal dalam pengembangan web untuk memastikan tampilan yang konsisten di berbagai browser.
 
-2. **Pengaturan Latar Belakang Halaman**:
+**2.	Mengatur Background, Overflow, Margin, dan Padding pada Body dan HTML**
+ 
+   `body, html {
+     background-color: rgba(102, 195, 163, 0.111);
+     overflow-x: hidden;
+     margin: 0;
+     padding: 0;
+     min-height: 1000px;
+   }`
+   
+-	`background-color` : Menetapkan warna latar belakang untuk elemen body dan html.
+-	`overflow-x: hidden;` : Menghilangkan scrollbar horizontal jika kontennya melebihi lebar layar.
+-	`margin: 0; dan padding: 0;` : Mengatur margin dan padding menjadi nol.
+-	`min-height: 1000px;` : Menetapkan tinggi minimum sebesar 1000 piksel untuk elemen body dan html.
 
-   - Setelah pengaturan global, Anda mendefinisikan pengaturan latar belakang untuk elemen `body` dan `html`. Latar belakangnya akan memiliki warna berdasarkan nilai RGBA (Merah-Hijau-Biru-Alpha) dan tinggi minimum halaman.
+**3.	Kelas-kelas CSS yang Digunakan**
+   Berikut adalah beberapa contoh kelas CSS yang digunakan dalam kode tersebut :
 
-3. **Gaya untuk Kelas-Kelas Umum**:
+-	`.d-flex` : Mengatur elemen agar menggunakan `display: flex;.`
+-	`.flex-wrap` : Mengatur elemen dengan `flex-wrap: wrap;.`
+-	`.align-i-center`: Mengatur elemen dengan `align-items: center;.`
+-	`.justify-c-center` : Mengatur elemen dengan `justify-content: center;.`
+-	`.justify-c-between` : Mengatur elemen dengan `justify-content: space-between;.`
+-	`.justify-c-around` : Mengatur elemen dengan `justify-content: space-around;.`
+-	`.justify-c-evenly` : Mengatur elemen dengan `justify-content: space-evenly;.`
+-	`.link-1, .link-2, .link-3, dst.` : Mengatur berbagai gaya tautan (link).
+-	`.button-1, .button-2, .button-3, dst.` : Mengatur berbagai gaya tombol.
+-	`.container-icon-link, .icon-link` : Mengatur ikon-ikon tautan sosial media.
+-	`.container-fluid, .row, .col-8, dst.`: Mengatur tata letak (layout) dan grid.
 
-   - Anda mendefinisikan beberapa kelas umum yang akan digunakan dalam elemen-elemen HTML, seperti `d-flex` (untuk display: flex), `align-i-center` (untuk mengatur perataan elemen sejajar tengah), dan sebagainya.
+**4. Font dan Teks**
 
-4. **Gaya untuk Link**:
+   Ada banyak deklarasi gaya teks dalam kode, seperti `font-family`, `font-size`, dan `font-weight` , yang digunakan untuk mengubah font dan ukuran teks berbagai elemen.
 
-   - Selanjutnya, Anda mendefinisikan tiga gaya yang berkaitan dengan tautan (link). `link-1`, `link-2`, dan `link-3` digunakan untuk mengatur tampilan tautan dengan variasi gaya. `link-2` memiliki efek hover yang mengubah warna latar belakang dan teks saat dihover.
+**5. Navigasi**
 
-5. **Gaya untuk Ikon Sosial Media**:
+   Ada kode yang berkaitan dengan gaya elemen navigasi (navbar) dan penggunaan sebelum dan sesudah saat mengarahkan kursor ke tautan.
 
-   - Anda mendefinisikan gaya untuk kontainer ikon sosial media (`.container-icon-link`) dan ikon-ikon itu sendiri (`.icon-link`). Pengaturan ini termasuk pengaturan ukuran, margin, border, dan efek hover yang mengubah latar belakang.
+**6. Gambar**
 
-6. **Gaya untuk Tata Letak**:
+   Terdapat beberapa pengaturan untuk gambar, termasuk transformasi gambar, efek hover, dan pemrosesan gambar untuk ikon sosial media.
 
-   - Bagian berikutnya dari kode mengatur tata letak dan sistem grid untuk halaman web. Anda menggunakan variabel seperti `--bs-gutter-x` dan `--bs-gutter-y` serta kelas-kelas seperti `.container-fluid`, `.row`, `.col-6`, dan lain-lain untuk mengatur tata letak dan ruang antar elemen.
+**7. Footer**
 
-7. **Gaya untuk Teks**:
+   Ada kode yang berhubungan dengan footer, termasuk pengaturan tampilan daftar produk yang muncul saat hover.
 
-   - Anda mendefinisikan berbagai gaya teks untuk judul, paragraf, dan elemen-elemen teks lainnya. Ini termasuk jenis font, ukuran, dan gaya huruf yang berbeda.
+**8. Breakpoints**
 
-8. **Gaya Navbar**:
+   Kode tersebut juga mencakup beberapa aturan untuk mengatur tampilan responsif dengan menentukan lebar kolom seperti `.col-8, .col-6,` dll.
 
-   - Anda mendefinisikan gaya untuk elemen-elemen dalam navbar. Ini mencakup pengaturan latar belakang navbar, elemen-elemen dalam daftar (list), dan efek hover yang mengubah bentuk elemen saat dihover.
+**f. Javascript**
 
-9. **Gaya untuk Halaman Beranda**:
+**1.	Bagian 1 : Menampilkan / Menyembunyikan Daftar Produk**
 
-   - Anda mendefinisikan gaya untuk elemen-elemen pada halaman beranda. Ini mencakup pengaturan posisi dan tampilan elemen-elemen seperti elips (ellipse) dan gambar-gambar.
+const product = document.querySelector(".prod-navbar");
 
-10. **Gaya untuk Halaman "About" dan "Contact Us"**:
+const productList = document.querySelector(".product-list");
 
-    - Anda menentukan latar belakang gambar untuk halaman "About" dan "Contact Us" dengan `.container-about` dan `.container-contact`.
+let timeoutId;
 
-11. **Gaya untuk Formulir Kontak (Contact Us)**:
+product.addEventListener("mouseenter", () => {
 
-    - Anda mendefinisikan gaya untuk elemen-elemen dalam formulir kontak (`.kolom-input`, `.input-contact`, `.input-contact-select`, dan tombol). Ini mencakup pengaturan margin, padding, dan latar belakang tombol saat dihover.
+    clearTimeout(timeoutId);
+    
+    productList.style.display = "block";
+    
+});
 
-12. **Gaya untuk Footer**:
-    - Terakhir, Anda mendefinisikan gaya untuk elemen-elemen dalam footer halaman web, termasuk latar belakang dan pengaturan padding.
+product.addEventListener("mouseleave", () => {
+
+    timeoutId = setTimeout(() => {
+    
+        if (!productList.matches(":hover")) {
+        
+            productList.style.display = "none";
+        }
+    }, 300);
+});
+
+productList.addEventListener("mouseenter", () => {
+
+    productList.style.display = "block";
+});
+
+productList.addEventListener("mouseleave", () => {
+
+    productList.style.display = "none";
+});
+
+--> Dalam bagian ini, Anda mendefinisikan interaksi untuk menampilkan daftar produk ketika pengguna mengarahkan kursor ke elemen dengan kelas `.prod-navbar` (mungkin elemen yang menggambarkan daftar produk).
+        
+  --> Saat kursor masuk (event mouseenter) ke elemen `.prod-navbar` , kode ini menghentikan timer timeoutId (jika ada) dan menampilkan elemen dengan kelas `.product-list.`
+        
+--> Saat kursor meninggalkan elemen `.prod-navbar` , kode mengatur timer yang akan menyembunyikan daftar produk setelah 300 milidetik jika kursor tidak mengarah ke daftar produk. Ini memberikan efek penundaan sebelum menyembunyikan daftar produk.
+
+--> Ketika pengguna mengarahkan kursor ke elemen `.product-list` , daftar produk akan ditampilkan (tanpa penundaan).
+        
+--> Saat kursor meninggalkan elemen `.product-list` , daftar produk akan disembunyikan.
+    
+**2.	Bagian 2 : Pengaturan Kotak Pencarian**
+
+const searchIcon = document.getElementById("search-icon");
+
+const searchBox = document.getElementById("search-box");
+
+searchIcon.addEventListener("click", () => {
+    if (searchBox.style.display === "block") {
+    
+        searchBox.style.display = "none"; // Tutup kotak pencarian jika sudah terbuka
+    } else {
+    
+        searchBox.style.display = "block"; // Tampilkan kotak pencarian jika belum terbuka
+    }
+    
+});
+
+--> Dalam bagian ini, kode ini menangani klik pada ikon pencarian.
+                
+  --> Saat ikon pencarian diklik, kode ini memeriksa apakah kotak pencarian `(searchBox)` sedang terbuka atau tidak berdasarkan properti `style.display.`
+                
+-->Jika kotak pencarian terbuka, kode akan menyembunyikannya dengan mengatur display menjadi `"none"` . Jika belum terbuka, kode akan menampilkannya dengan mengatur display menjadi `"block"` .
+
+**3.	Bagian 3 : Fungsi productScroll**
+
+"use strict";
+
+productScroll();
+
+function productScroll() {
+    // ...
+    
+}
+
+--> Ini adalah definisi dari fungsi  `productScroll.`
+
+  -->	Baris `"use strict"` adalah directive JavaScript yang mengaktifkan mode ketat, yang memungkinkan penanganan kesalahan yang lebih ketat dalam kode.    
+  
+--> Fungsi productScroll dipanggil dengan `productScroll();.`
+
+**4.	Bagian 4 : Logika Scroll Produk**
+
+function productScroll() {
+
+    let slider = document.getElementById("slider");
+    
+    let slide = document.getElementById("slide");
+    
+    let item = document.getElementById("slide");
+
+    for (let i = 0; i < next.length; i++) {
+    
+        //refer elements by class name
+
+        let position = 0; //slider postion
+
+        prev[i].addEventListener("click", function () {
+            //click previos button
+            
+            if (position > 0) {
+            
+                //avoid slide left beyond the first item
+                
+                position -= 1;
+                
+                translateX(position); //translate items
+                
+            }
+        });
+
+        next[i].addEventListener("click", function () {
+        
+            if (position >= 0 && position < hiddenItems()) {
+            
+                //avoid slide right beyond the last item
+                position += 1;
+                
+                translateX(position); //translate items
+            }
+            
+        });
+        
+    }
+    
+}
+
+--> Fungsi `productScroll` menginisialisasi slider produk dan menangani logika geser produk.
+        
+ -->	Ini mengatur variabel `slider`, `slide`, dan `item` untuk merujuk ke elemen-elemen dengan ID yang sesuai.
+        
+  -->	Loop for digunakan untuk mengatur event listener untuk tombol `"prev"` dan `"next"` yang mungkin ada.
+        
+--> Saat tombol `"prev"` diklik, kode memeriksa apakah slider masih dapat digeser ke kiri (ke produk sebelumnya) dan jika memungkinkan, kode akan menggeser slider dengan mengubah posisinya dengan memanggil `translateX.`
+        
+--> Saat tombol `"next"` diklik, kode memeriksa apakah slider masih dapat digeser ke kanan (ke produk selanjutnya) dan jika memungkinkan, kode akan menggeser slider dengan mengubah posisinya dengan memanggil `translateX.`
+
+**5.	Bagian 5 : Fungsi translateX**
+
+function translateX(position) {
+
+    //translate items
+    
+    slide.style.left = position * -210 + "px";
+    
+}
+
+--> Fungsi `translateX` digunakan untuk menggeser elemen produk dengan mengubah nilai properti left dari elemen slide.
+      
+--> Ini digunakan dalam bagian sebelumnya saat tombol `"prev"` atau `"next"` diklik untuk menggeser produk.
+
+**6.	Bagian 6 : Fungsi getCount**
+
+function getCount(parent, getChildrensChildren) {
+
+    //count no of items
+    
+    let relevantChildren = 0;
+    
+    let children = parent.childNodes.length;
+    
+    for (let i = 0; i < children; i++) {
+    
+        if (parent.childNodes[i].nodeType != 3) {
+        
+            if (getChildrensChildren)
+            
+                relevantChildren += getCount(parent.childNodes[i], true);
+                
+            relevantChildren++;
+            
+        }
+        
+    }
+    
+    return relevantChildren;
+    
+}
+
+--> 	Ini adalah fungsi bantu yang menghitung jumlah elemen (item) yang relevan dalam elemen yang diberikan.
+        
+     
+-->	Fungsi ini menerima dua argumen: parent adalah elemen yang akan dihitung, dan `getChildrensChildren` adalah boolean yang menentukan apakah harus menghitung juga elemen-elemen anak dari anak-anak elemen ini.
+        
+        
+-->    Fungsi ini mengembalikan jumlah elemen yang relevan dalam elemen parent. Itu digunakan untuk menghitung jumlah elemen dalam slider produk sehingga dapat menentukan berapa kali slider harus digeser.
+
+
