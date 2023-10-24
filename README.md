@@ -1,6 +1,6 @@
-# PemwebFinalProject
+# PEMPROGRAMAN WEB FINAL PROJECT
 
-# 2022C-Kelompok5
+# Kelompok 5 < MI 2022 C
 
 **Software Requirements Specification**
 
@@ -88,7 +88,8 @@ Tabel 1 Karakteristik Pengguna
 
 **2.3. Lingkungan Operasi**
 
-![tabel lingkungan operasi](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/c54bb06a-eb3a-4daf-bab2-b51e7bce4587)
+![Tabel 2 3](https://github.com/Mavlans990/PEMWEB_5_MIC/assets/120569369/680b9e23-3cb4-4dbb-b4b8-19e9c21d6f09)
+
 
 **2.4. Batasan Desain dan Implementasi**
 
@@ -109,32 +110,51 @@ Dengan penjelasan ini, batasan-batasan desain dan implementasi menjadi lebih jel
 Ruang lingkup Website "Crafted Merch Customized" meliputi bagian-bagian yang terdapat dalam Website "Crafted Merch Customized" yang telah dibuat. Berikut deskripsi singkat mengenai ruang lingkup Website Pribadi ini:
 
 **1. Home**
+
 Pada halaman home akan menampilkan “Crafted Merch Customized”, “Our Categories Product”, dan “We Print Your Idea.”
 
-![HOME](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/cfe2faf8-3a07-4d8a-9441-514fe68979b5)
+<img width="221" alt="Screenshot 2023-10-23 203454" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/f0cb86c2-21ec-4602-b7ed-3d048676dd57">
+
+
 
 **2. Product**
-Pada halaman Product kami akan menampilkan halaman shop.
 
-![PRODUCT1](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/a1b826bc-2ad8-4b7d-8fa5-1eb96c14c2e0)
+Pada halaman Product kami akan menampilkan halaman shop, seperti : T-Shirt, Headware, Lanyard, Totebag.
 
-![PRODUCT2](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/474e47c0-f68c-4fcb-8410-48dfa9ca3f9e)
+1.	Product T-Shirt
+   
+    <img width="539" alt="Screenshot 2023-10-23 204120" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/38126a78-4465-4421-a4a9-6d9814ce1afc">
 
-![PRODUCT3](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/571c0b14-dc6e-465e-9f2b-3790a3f4b776)
+    
+2.	Product Headware
+   
+     <img width="482" alt="Screenshot 2023-10-23 204139" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/bdc1df56-c0d1-4a2b-af63-c426aa710844">
 
-![PRODUCT4](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/9aaeb7b3-3ee2-4a7c-901e-d70bb2bf7faa)
+   
+3.	Product Lanyard
+   
+     <img width="560" alt="Screenshot 2023-10-23 204248" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/64394528-5a15-4e1f-8a45-5f79f527155a">
 
-![PRODUCT5](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/0a46fcd0-ffa9-4a66-86f9-a20cd92278ef)
+   
+4.	Product Totebag
+   
+     <img width="500" alt="Screenshot 2023-10-23 204203" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/36243264-b4d8-484f-a51f-d29a68ce5bb3">
+
 
 **3. Contact Us**
+
 Pada halaman Contact kami akan menampilkan halaman untuk login dan registrasi, “how did you find us”, phone, dan email untuk menghubungi kami.
 
-![CONTACT US](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/c7c23218-91aa-4b9a-91d8-5e08e83f96d8)
+  <img width="383" alt="Screenshot 2023-10-23 203520" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/b138a44b-95d3-4eb4-8934-48ea0394cd63">
+    
 
 **4. About**
+
 Pada halaman About akan menceritakan tentang diri kami, yaitu “Crafted Merch Customized” adalah brand yang bisa memadukan kualitas tinggi dengan kreativitas tak terbatas. Menawarkan berbagai macam merchandise, mulai dari baju kaos, hoodie, topi, lanyard, hingga totebag, yang dapat disesuaikan sepenuhnya dengan desain pilihan pelanggan.
 
-![ABOUT](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/74bb77ac-5055-4922-b158-fcd11b4b6264)
+   <img width="381" alt="Screenshot 2023-10-23 203536" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/05a75f88-c9af-4522-839a-fb1e0569526c">
+
+
 
 **3.2. Hardware Interface**
 
@@ -179,7 +199,8 @@ Bagian ini akan menggambarkan kebutuhan fungsional untuk produk "Crafted Merch C
 
 Gambaran use case diagramnya dari functional requirement yang didapatkan.
 
-![USE CASE DIAGRAM](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/90e9628c-7b9b-45ea-b342-0f2628f384e9)
+![usecase website](https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/178fa134-8ca4-4483-ad03-f0a60ca79ccf)
+
 
 **4.2. Penjelasan Use Case**
 
@@ -240,267 +261,524 @@ Berikut ini daftar istilah dan akronim yang dipakai pada dokumen SRS ini.
 
 **Flowchart Sistem input product**
 
-<img width="303" alt="Flowchart Sistem Input Produk" src="https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/c371afb7-55db-4efc-baf8-cd7ca30057b3">
+  <img width="349" alt="Flowchart sistem input product" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/c5a5408b-c19b-4aca-a195-15b48a66e2e2">
 
+  
 **Flowchart sistem pemesanan**
 
-<img width="295" alt="Flowchart Sistem Pemesanan" src="https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/8fbb7e72-8963-45b1-9268-e80b5123ea28">
+  <img width="393" alt="flowchart sistem pemesanan" src="https://github.com/Mavlans990/PEMWEB_5_MIC/assets/144099380/aa72ecf3-42a8-47f0-aaa3-12802e443603">
+
 
 **Lampiran C : Penjelasan HTML**
 
 **a. HTML Halaman Home:**
 
-1. `<!DOCTYPE html>`: Ini adalah deklarasi tipe dokumen (Document Type Declaration) yang mengindikasikan bahwa halaman ini adalah dokumen HTML5.
+1. `<!DOCTYPE html>` : Ini adalah deklarasi tipe dokumen HTML yang menunjukkan bahwa ini adalah halaman HTML.
 
-2. `<html lang="en">`: Ini adalah elemen awal yang menandakan awal dari dokumen HTML. Atribut `lang="en"` menunjukkan bahwa halaman ini menggunakan bahasa Inggris.
+2. `<html lang="en">` : Elemen ini adalah elemen pembuka untuk dokumen HTML. Atribut lang menunjukkan bahwa bahasa dokumen adalah Inggris.
 
-3. `<head>`: Ini adalah bagian kepala dari halaman HTML, yang berisi informasi meta dan pengaturan halaman yang tidak ditampilkan kepada pengguna.
+3. `<head>`: Ini adalah bagian kepala dokumen HTML yang berisi berbagai elemen metadata dan referensi ke sumber daya eksternal.
 
-   - `<meta charset="UTF-8" />`: Mendefinisikan pengkodean karakter UTF-8 untuk halaman, yang umum digunakan untuk mendukung karakter internasional.
+     - `<meta charset="UTF-8">` : Menentukan bahwa karakter set dokumen adalah UTF-8, yang mendukung berbagai karakter.
+     
+     - `<meta name="viewport" content="width=device-width, initial-scale=1.0">` : Mengatur tampilan halaman agar responsif pada berbagai perangkat dengan menyesuaikan lebar tampilan dan skala awal.
+     
+     - Komentar HTML `(<!-- Google Font -->)` digunakan untuk memberikan komentar dalam kode HTML.
+     
+     - `<link rel="preconnect" href="https://fonts.googleapis.com">` dan `<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>` : Mengoptimalkan koneksi ke server Google Fonts untuk pengunduhan font yang lebih cepat.
+     
+     - `<link href="https://fonts.googleapis.com/css2?..." rel="stylesheet">` : Mendefinisikan berbagai font dari Google Fonts yang akan digunakan di halaman web Anda.
+     
+     - `<link rel="stylesheet" href="css/style.css">` : Menghubungkan halaman dengan berkas CSS eksternal yang disebut "style.css".
+     
+     - `<title>Craft Merch Customized - Home</title>` : Menetapkan judul halaman web yang akan ditampilkan di tab peramban.
+  
+4. `<body>` : Ini adalah elemen utama yang berisi konten utama dari halaman web.
 
-   - `<meta name="viewport" content="width=device-width, initial-scale=1.0" />`: Ini adalah meta tag yang mengatur tampilan halaman pada perangkat seluler dengan lebar yang sesuai dengan lebar perangkat dan faktor skala awal set ke 1.
+5. `<nav class="navbar">` : Ini adalah elemen navigasi yang berisi menu dan logo situs.
+       - `<img src="image/Icon/logo.png" alt="" width="70">` : Menampilkan logo situs sebagai gambar dengan lebar 70 piksel.
+     
+       - `<div class="container-navbar">` : Ini adalah elemen div yang berisi daftar menu navigasi.
+     
+       - Daftar menu navigasi terdiri dari elemen `<ul>` , `<li>` , dan tautan `<a>'`, termasuk tautan pencarian dengan gambar ikon.
+     
+       - Elemen `<div class="d-flex align-i-center">` berisi tautan "Login" dan "Register" serta gambar-gambar ikon.
+  
+6. `<div id="search-box" style="display: none; margin-left: 780px">`: Ini adalah kotak pencarian yang awalnya disembunyikan dengan atribut style, tetapi akan muncul saat dicari. Berisi elemen input teks untuk melakukan pencarian.
 
-   - Komentar HTML (`<!-- Google Font -->`): Ini adalah komentar HTML yang memberikan informasi tambahan tentang elemen-elemen berikutnya. Dalam hal ini, ini menunjukkan bahwa Anda akan memuat font dari Google Fonts.
+7. `div class="product-list" style="display: none">` : Ini adalah daftar produk yang awalnya disembunyikan dan akan muncul saat item "Product" dihover. Daftar ini termasuk tautan ke halaman produk berbeda.
 
-   - Beberapa elemen `<link>`: Ini adalah elemen yang digunakan untuk memuat font dari Google Fonts. Anda mendefinisikan beberapa jenis font yang akan digunakan dalam halaman.
+8. `<section class="container-fluid" style="padding: 60px 60px 350px 60px; height: 500px">` : Ini adalah elemen bagian atau "section" pertama yang berisi konten utama halaman.
+   - Di dalamnya, terdapat elemen baris `(<div class="row">)` yang dibagi menjadi dua kolom `(<div class="col-6">)`, yang masing-masing berisi judul, deskripsi, dan tautan.
 
-   - `<link rel="stylesheet" href="css/style.css" />`: Ini adalah elemen `<link>` lain yang memuat file stylesheet eksternal "style.css" yang digunakan untuk mengatur tampilan halaman.
+9. `<section class="container-fluid" style="padding: 4rem 0; background: linear-gradient(...)">` : Ini adalah elemen "section" kedua yang berisi konten lainnya.
+    
+   - Ini juga memiliki elemen `judul, gambar, dan teks` yang menjelaskan kategori produk.
 
-   - `<title>Document</title>`: Ini adalah judul halaman web yang akan ditampilkan di tab atau jendela browser.
+11. `<footer>` : Ini adalah elemen penutup halaman yang berisi informasi kontak dan tautan sosial media.
+    
+    - Terdapat empat kolom dengan informasi yang berbeda, termasuk tautan ke halaman produk, tautan "Contact Us", dan informasi kontak.
+      
+    - Terdapat tautan ke sosial media (Twitter, Facebook, dan Instagram).
+      
+    - Elemen terakhir adalah tanda hak cipta dan informasi hak cipta halaman.
 
-4. `<body>`: Ini adalah bagian utama dari halaman web yang berisi konten yang akan ditampilkan kepada pengguna.
+12. `<script src="js/script.js"></script>` : Ini adalah tag script yang menghubungkan halaman web ke file JavaScript eksternal "script.js" untuk mengatur perilaku interaktif di halaman.
 
-   - `<nav class="navbar">`: Ini adalah elemen navigasi dengan kelas "navbar," yang berisi logo dan menu navigasi.
-
-     - `<img src="image/Icon/logo.png" alt="" width="70" />`: Ini adalah gambar logo dengan atribut `alt` dan lebar yang ditentukan.
-
-     - `<div class="container-navbar">`: Ini adalah elemen div yang berisi daftar (unordered list) menu navigasi.
-
-       - `<ul>`: Ini adalah daftar tak terurut yang berisi elemen-elemen menu.
-
-         - `<li><a href="#">Home</a></li>`: Ini adalah elemen daftar (list item) yang berisi tautan menu "Home."
-
-         - `<li><a href="product.html">Product</a></li>`: Ini adalah elemen daftar yang berisi tautan ke halaman "product.html" dengan teks "Product."
-
-         - `<li><a href="about.html">About</a></li>`: Ini adalah elemen daftar yang berisi tautan ke halaman "about.html" dengan teks "About."
-
-         - `<li><a href="contact_us.html">Contact</a></li>`: Ini adalah elemen daftar yang berisi tautan ke halaman "contact_us.html" dengan teks "Contact."
-
-         - `<li><a href="#"><img src="image/Icon/search.png" alt="" width="20" /></a></li>`: Ini adalah elemen daftar yang berisi tautan dengan gambar pencarian.
-
-     - `<div class="d-flex align-i-center">`: Ini adalah elemen div yang menggunakan fleksibilitas CSS untuk mengatur tampilan konten di dalamnya.
-
-       - `<a href="#" class="link-1">Login</a>`: Ini adalah tautan dengan kelas "link-1" dan teks "Login."
-
-       - `<a href="#" class="link-2">Register</a>`: Ini adalah tautan dengan kelas "link-2" dan teks "Register."
-
-       - Beberapa elemen gambar (img) yang menampilkan ikon-ikon dengan atribut-atribut yang mengatur tampilan.
-
-5. `<section class="container-fluid">`: Ini adalah elemen seksi dengan kelas "container-fluid" yang berisi konten utama halaman.
-
-   - `<div class="row">`: Ini adalah elemen div dengan kelas "row" yang digunakan dalam sistem grid untuk mengatur tata letak.
-
-     - `<div class="col-6 d-flex align-i-center justify-c-center">`: Ini adalah elemen div dengan kelas "col-6" yang digunakan dalam sistem grid untuk mengatur tata letak. Ini berisi teks dan judul.
-
-       - Beberapa elemen teks, judul (h1), dan paragraf (p) yang menjelaskan produk atau layanan yang ditawarkan.
-
-     - `<div class="col-6">`: Ini adalah elemen div dengan kelas "col-6" yang digunakan dalam sistem grid untuk mengatur tata letak. Ini berisi gambar-gambar yang mendukung konten.
-
-       - Beberapa elemen gambar (img) yang menampilkan berbagai gambar dengan atribut-atribut yang mengatur tampilan.
-
+    
 **b. HTML Halaman About:**
 
-1. `<!DOCTYPE html>`: Ini adalah deklarasi tipe dokumen (Document Type Declaration) yang mendefinisikan bahwa halaman ini adalah dokumen HTML5.
+1. `<!DOCTYPE html>` : Ini adalah deklarasi tipe dokumen HTML yang menandakan bahwa ini adalah halaman HTML.
 
-2. `<html lang="en">`: Ini adalah elemen awal yang menandakan awal dari dokumen HTML. Atribut `lang="en"` menunjukkan bahwa halaman ini menggunakan bahasa Inggris.
+2. `<html lang="en">` : Ini adalah elemen pembuka untuk dokumen HTML. Atribut lang menandakan bahwa bahasa dokumen adalah Inggris.
 
-3. `<head>`: Ini adalah bagian kepala dari halaman HTML, yang berisi informasi meta dan pengaturan halaman yang tidak ditampilkan kepada pengguna.
+3.` <head>` : Bagian kepala dokumen HTML yang berisi berbagai elemen metadata dan referensi ke sumber daya eksternal.
 
-   - `<meta charset="UTF-8" />`: Mendefinisikan pengkodean karakter UTF-8 untuk halaman, yang umum digunakan untuk mendukung karakter internasional.
+        o	`<meta charset="UTF-8">` 
+          Mendefinisikan karakter set dokumen sebagai UTF-8, yang mendukung berbagai karakter Unicode.
+        
+        o	`<meta name="viewport" content="width=device-width, initial-scale=1.0">` 
+          Mengatur tampilan halaman agar responsif pada berbagai perangkat dengan menyesuaikan lebar tampilan dan skala awal.
+        
+        o	Komentar HTML `(<!-- Google Font -->)` digunakan untuk memberikan komentar dalam kode HTML.
+        
+        o	`<link rel="preconnect" href="https://fonts.googleapis.com"> dan <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>` 
+          Meningkatkan efisiensi pengunduhan font dengan melakukan prekoneksi ke server Google Fonts.
+        
+        o	`<link href="https://fonts.googleapis.com/css2?..." rel="stylesheet">` 
+          Mendefinisikan berbagai font dari Google Fonts yang akan digunakan di halaman web Anda.
+        
+        o	`<link rel="stylesheet" href="css/style.css">` 
+          Menghubungkan halaman dengan berkas CSS eksternal yang disebut "style.css".
+        
+        o	`<title>Craft Merch Customized - About</title>` 
+          Menetapkan judul halaman web yang akan ditampilkan di tab peramban.
 
-   - `<meta name="viewport" content="width=device-width, initial-scale=1.0" />`: Ini adalah meta tag yang mengatur tampilan halaman pada perangkat seluler dengan lebar yang sesuai dengan lebar perangkat dan faktor skala awal set ke 1.
+4. `<body>` : Ini adalah elemen utama yang berisi konten utama dari halaman web. Semua konten web ditampilkan di dalamnya.
 
-   - `<title>Document</title>`: Ini adalah judul halaman web yang akan ditampilkan di tab atau jendela browser.
+5. `<nav class="navbar" style="margin-bottom: 30px">`: Ini adalah elemen navigasi yang berisi menu dan logo situs, serta menggunakan atribut style untuk mengatur margin bawahnya.
 
-4. `<body>`: Ini adalah bagian utama dari halaman web yang berisi konten yang akan ditampilkan kepada pengguna.
+      -	`<img src="image/Icon/logo.png" alt="" width="70">`
+          Menampilkan logo situs sebagai gambar dengan lebar 70 piksel.
+   
+      -	`<div class="container-navbar">`
+          Ini adalah elemen div yang berisi daftar menu navigasi.
+   
+      -	Daftar menu navigasi terdiri dari elemen `<ul>` , `<li>` , dan tautan `<a>`
+        termasuk tautan pencarian dengan gambar ikon.
+   
+      -	Elemen `<div class="d-flex align-i-center">` berisi tautan `"Login"` dan `"Register"` serta gambar-gambar ikon.
 
-   - `<nav>`: Ini adalah elemen navigasi yang mengelompokkan tautan-tautan ke berbagai bagian situs web.
+7. `<div id="search-box" style="display: none; margin-left: 780px; margin-top: -30px;">` : Ini adalah kotak pencarian yang awalnya disembunyikan dengan atribut style. Kotak ini memiliki elemen input teks untuk melakukan pencarian.
 
-     - `<ul>`: Ini adalah daftar tak terurut (unordered list) yang berisi tautan-tautan menu.
+8. `<div class="product-list" style="display: none; margin-top: -30px">` : Ini adalah daftar produk yang awalnya disembunyikan dan akan muncul saat item "Product" dihover. Daftar ini termasuk tautan ke halaman produk berbeda.
 
-       - `<li>`: Ini adalah elemen daftar (list item) yang berisi tautan menu.
+9. `<section class="container-about">` : Ini adalah elemen "section" yang digunakan untuk mengelompokkan konten "About" dalam halaman.
 
-         - `<a href="index.html">Home</a>`: Ini adalah tautan (link) ke halaman "index.html" dengan teks "Home".
+   -	`<div class="row">` :
+       Elemen ini adalah baris yang mengelompokkan dua kolom dalam tata letak.
+   
+   -	`<div class="col-6">` :
+       Ini adalah kolom pertama yang berisi teks tentang Crafted Merch Customized.
+   
+   -	`<h1 class="h-text-7">` Crafted Merch Customized</h1>`
+       Ini adalah judul teks.
+   
+   -	Paragraf teks yang menjelaskan produk yang ditawarkan oleh Crafted Merch Customized.
+   
+   -	`<div class="col-6" style="display: flex; justify-content: center">`
+       Ini adalah kolom kedua yang berisi gambar yang ditampilkan di tengah dengan menggunakan CSS untuk mengatur tata letaknya.
+   
+   -	`<img src="image/about/product.png" alt="" />`
+       Ini adalah gambar yang ditampilkan di dalam kolom.
 
-         - `<a href="product.html">Product</a>`: Ini adalah tautan ke halaman "product.html" dengan teks "Product".
+9. `<footer style="background-color: rgba(102, 195, 163, 0.111)">` : Ini adalah elemen penutup halaman yang berisi informasi kontak dan tautan sosial media. Latar belakangnya diberi warna menggunakan CSS.
+      -	Informasi kontak dan tautan media sosial.
+      -	Tautan ke halaman produk, tautan "Contact Us," dan informasi kontak.
+      -	Tautan ke sosial media (Twitter, Facebook, dan Instagram).
+      -	Informasi hak cipta halaman.
 
-         - `<a href="#">About</a>`: Ini adalah tautan yang saat ini kosong (karena href="#" tidak mengarahkan ke halaman lain) dengan teks "About".
+10. `<script src="js/script.js"></script>` : Ini adalah tag script yang menghubungkan halaman web ke file JavaScript eksternal "script.js" untuk mengatur perilaku interaktif di halaman.
 
-         - `<a href="contact_us.html">Contact</a>`: Ini adalah tautan ke halaman "contact_us.html" dengan teks "Contact".
-
-     - `<button>Login</button>`: Ini adalah elemen tombol "Login".
-
-     - `<button>Register</button>`: Ini adalah elemen tombol "Register".
-
-   - `<section class="about">`: Ini adalah bagian dari halaman web yang memiliki kelas CSS "about" untuk penyesuaian gaya.
-
-     - `<div>`: Ini adalah elemen div (division) yang mengelompokkan konten tentang halaman web.
-
-       - `<h2>Crafted Merch Customized</h2>`: Ini adalah elemen judul level 2 (h2) yang berisi teks "Crafted Merch Customized".
-
-       - `<p>`: Ini adalah elemen paragraf (paragraph) yang berisi teks yang menjelaskan tentang "Crafted Merch Customized."
-
-     - `<div>`: Ini adalah elemen div kedua yang berisi empat gambar (img) yang mengacu pada berkas gambar dengan atribut alt (deskripsi alternatif) kosong.
 
 **c. HTML Halaman Contact Us:**
 
-1. `<!DOCTYPE html>`: Ini adalah deklarasi tipe dokumen (Document Type Declaration) yang mengindikasikan bahwa halaman ini adalah dokumen HTML5.
 
-2. `<html lang="en">`: Ini adalah elemen awal yang menandakan awal dari dokumen HTML. Atribut `lang="en"` menunjukkan bahwa halaman ini menggunakan bahasa Inggris.
+1. `<!DOCTYPE html>` : Ini adalah deklarasi tipe dokumen (Document Type Declaration) yang menyatakan bahwa halaman ini adalah dokumen HTML.
 
-3. `<head>`: Ini adalah bagian kepala dari halaman HTML, yang berisi informasi meta dan pengaturan halaman yang tidak ditampilkan kepada pengguna.
+2. `<html lang="en">` : Ini adalah elemen pembuka yang menandai awal dari dokumen HTML. Atribut lang digunakan untuk menentukan bahasa halaman, dalam hal ini bahasa adalah bahasa Inggris.
 
-   - `<meta charset="UTF-8" />`: Mendefinisikan pengkodean karakter UTF-8 untuk halaman, yang umum digunakan untuk mendukung karakter internasional.
+3.`<head>` : Elemen ini berisi informasi meta tentang halaman web, seperti karakter set dan pengaturan viewport.
 
-   - `<meta name="viewport" content="width=device-width, initial-scale=1.0" />`: Ini adalah meta tag yang mengatur tampilan halaman pada perangkat seluler dengan lebar yang sesuai dengan lebar perangkat dan faktor skala awal set ke 1.
+      - `<meta charset="UTF-8">` 
+        Ini mengatur karakter set halaman ke UTF-8, yang mendukung berbagai karakter internasional.
 
-   - `<title>Document</title>`: Ini adalah judul halaman web yang akan ditampilkan di tab atau jendela browser.
+      -	`<meta name="viewport" content="width=device-width, initial-scale=1.0">` 
+        Ini mengatur tampilan responsif dengan lebar sesuai dengan lebar perangkat (width=device-width) dan skala awal (initial-scale=1.0).
 
-4. `<body>`: Ini adalah bagian utama dari halaman web yang berisi konten yang akan ditampilkan kepada pengguna.
+      -	`<link>` untuk Google Font 
+        Ini adalah beberapa tautan untuk mengimpor font dari Google Fonts. Ini memungkinkan Anda menggunakan berbagai jenis font dalam halaman Anda.
 
-   - `<nav>`: Ini adalah elemen navigasi yang mengelompokkan tautan-tautan ke berbagai bagian situs web.
+      -	`<link>` untuk CSS
+        Ini adalah tautan ke file CSS eksternal `("css/style.css")` yang mengatur tampilan dan gaya halaman.
 
-     - `<ul>`: Ini adalah daftar tak terurut (unordered list) yang berisi tautan-tautan menu.
+      -	`<title>` 
+        Ini mengatur judul halaman web yang akan ditampilkan pada tab browser.
 
-       - `<li>`: Ini adalah elemen daftar (list item) yang berisi tautan menu.
+9. `<body>` : Elemen <body> berisi semua konten yang akan ditampilkan pada halaman web.
 
-         - `<a href="index.html">Home</a>`: Ini adalah tautan (link) ke halaman "index.html" dengan teks "Home".
+10. `<nav class="navbar">` : Ini adalah elemen navigasi yang berisi menu utama dan logo situs.
 
-         - `<a href="product.html">Product</a>`: Ini adalah tautan ke halaman "product.html" dengan teks "Product".
+11. Gambar <img> dalam `<nav>` : Ini adalah gambar yang digunakan untuk menampilkan logo situs dan ikon.
 
-         - `<a href="about.html">About</a>`: Ini adalah tautan ke halaman "about.html" dengan teks "About".
+12. Tautan `<a>`dalam `<nav>` : Ini adalah tautan menu ke halaman lain dalam situs.
 
-         - `<a href="#">Contact</a>`: Ini adalah tautan yang saat ini kosong (karena href="#" tidak mengarahkan ke halaman lain) dengan teks "Contact".
+13. `div class="d-flex align-i-center"` : Ini adalah div yang mengelompokkan tautan "Login" dan "Register" dengan ikon.
+      -	`<a href="#" class="link-1">Login</a>` : Ini adalah tautan ke halaman login.
 
-     - `<button>Login</button>`: Ini adalah elemen tombol "Login".
+      -	`<a href="#" class="link-2">Register</a>` : Ini adalah tautan ke halaman registrasi.
 
-     - `<button>Register</button>`: Ini adalah elemen tombol "Register".
+      - Gambar-gambar yang menampilkan garis vertikal `(Line 1)` dan gambar belanja `(Buy).`
 
-   - `<section class="contact">`: Ini adalah bagian dari halaman web yang memiliki kelas CSS "contact" untuk penyesuaian gaya.
+14. `<div id="search-box">` : Ini adalah div yang digunakan untuk menampilkan kotak pencarian yang semula tersembunyi (display: none).
 
-     - `<h1>Contact Us</h1>`: Ini adalah elemen judul level 1 (h1) yang berisi teks "Contact Us".
+15. `<section class="container-contact">` : Ini adalah elemen `<section>`yang mengelompokkan konten terkait dengan "Contact Us."
 
-     - `<form action="">`: Ini adalah elemen formulir yang berisi input dan tombol untuk mengirim data.
+        -	`<h1 class="h-text-5">CONTACT US</h1>`
+            Ini adalah elemen heading level 1 (judul) dengan kelas "h-text-5" yang menampilkan teks "CONTACT US."
 
-       - `<input type="text" placeholder="Nama *" />`: Ini adalah elemen input teks dengan placeholder (teks petunjuk) "Nama \*".
+        - `<div class="row">`
+           Ini adalah div dengan kelas "row" yang digunakan untuk mengelompokkan elemen dalam satu baris.
+    
+        -	`<div class="col-6 kolom-input">`
+            Ini adalah div dengan kelas "col-6 kolom-input" yang mewakili kolom input dalam bentuk formulir.
 
-       - `<input type="text" placeholder="Email *" />`: Ini adalah elemen input teks dengan placeholder "Email \*".
+ 17. `<form action="">` : Ini adalah elemen formulir yang memiliki atribut action kosong, yang berarti formulir ini belum diarahkan ke URL tertentu ketika diajukan.
 
-       - `<input type="text" placeholder="Phone Number *" />`: Ini adalah elemen input teks dengan placeholder "Phone Number \*".
+18. Beberapa elemen `<input>` : Ini adalah elemen input yang memungkinkan pengguna memasukkan informasi. Ada tiga input untuk "Nama," "Email," dan "Phone Number."
 
-       - `<select name="" id="">`: Ini adalah elemen dropdown (select) yang memungkinkan pengguna memilih bagaimana mereka menemukan situs web ini.
+19. `<select name="" id="" class="input-contact-select">` : Ini adalah elemen dropdown (pilihan) dengan atribut name dan id kosong. Ini mungkin digunakan untuk memilih bagaimana pengguna menemukan situs web ini. Namun, elemen ini tidak memiliki opsi (options) yang terdefinisi.
 
-         - `<option value="">How did you find us?</option>`: Ini adalah opsi pertama dalam dropdown.
+20. `<button type="submit">SEND</button>` : Ini adalah tombol "SEND" yang mungkin digunakan untuk mengirimkan formulir. Ini akan memerlukan JavaScript atau layanan server untuk menangani pengiriman formulir. Ada juga sejumlah elemen `<div>` yang mengandung ikon telepon, ikon Instagram, dan alamat email serta kontennya.
 
-       - `<button>Send</button>`: Ini adalah elemen tombol "Send" yang digunakan untuk mengirim formulir.
+21. Bagian yang di-comment `(<!-- ... -->)` : Ini adalah bagian yang di-comment (diarsir) yang tidak akan ditampilkan di halaman web. Ada kode yang di-comment yang mungkin awalnya ditujukan untuk menampilkan elemen tertentu, tetapi saat ini tidak aktif.
 
-     - `<div>`: Ini adalah elemen div yang mengandung informasi kontak.
+22. `<section style="height: 50px"></section>` : Ini adalah elemen <section> yang menambahkan jarak tinggi 50 piksel di antara konten. Ini digunakan untuk memberikan ruang di antara bagian-bagian halaman.
 
-       - `<img src="image/Icon/phone.png" alt="" />`: Ini adalah elemen gambar (image) yang menampilkan ikon telepon.
+23. `<footer>` : Ini adalah elemen `<footer>` yang berisi informasi dan tautan tambahan yang sering terdapat di bagian bawah halaman web.
 
-       - `<h4>Phone</h4>`: Ini adalah elemen judul level 4 (h4) yang berisi teks "Phone".
-
-       - `<p>03 5432 1234</p>`: Ini adalah elemen paragraf (p) yang berisi nomor telepon.
-
-       - `<img src="image/Icon/instagram.png" alt="" />`: Ini adalah elemen gambar yang menampilkan ikon Instagram.
-
-       - `<h4>@</h4>`: Ini adalah elemen judul level 4 (h4) yang berisi simbol "@".
-
-       - `<img src="image/Icon/email.png" alt="" />`: Ini adalah elemen gambar yang menampilkan ikon email.
-
-       - `<h4>Email</h4>`: Ini adalah elemen judul level 4 (h4) yang berisi teks "Email".
-
-       - `<p>info@marcc.com.au</p>`: Ini adalah elemen paragraf (p) yang berisi alamat email.
+24. `<script src="js/script.js"></script>` : Ini adalah tautan ke file JavaScript eksternal `("js/script.js")` yang akan memuat fungsi dan perilaku tambahan ke halaman web.
 
 **d. HTML Halaman Product:**
 
-1. `<!DOCTYPE html>`: Ini adalah deklarasi tipe dokumen (Document Type Declaration) yang menunjukkan bahwa halaman ini adalah dokumen HTML5.
+Terdiri dari beberapa halaman produk yang memiliki tampilan yang sama, Jadi menggunakan source code yang sama di semua halaman produk dengan menggantikan gambar produk sesuai dengan produk yang ditampilkan. 
 
-2. `<html lang="en">`: Ini adalah elemen awal yang menandakan awal dari dokumen HTML. Atribut `lang="en"` menunjukkan bahwa halaman ini menggunakan bahasa Inggris.
+Berikut penjelasan dari salah satu halaman yaitu halaman T-Shirt : 
 
-3. `<head>`: Ini adalah bagian kepala dari halaman HTML, yang berisi informasi meta dan pengaturan halaman yang tidak ditampilkan kepada pengguna.
+1. `<!DOCTYPE html>` : Ini adalah deklarasi tipe dokumen HTML, yang memberi tahu browser bahwa ini adalah dokumen HTML5.
 
-   - `<meta charset="UTF-8" />`: Mendefinisikan pengkodean karakter UTF-8 untuk halaman, yang umum digunakan untuk mendukung karakter internasional.
+2. `<html lang="en">` : Ini adalah elemen root (paling atas) dari halaman web. Atribut lang digunakan untuk menentukan bahasa dokumen, dalam hal ini, bahasa Inggris.
 
-   - `<meta name="viewport" content="width=device-width, initial-scale=1.0" />`: Ini adalah meta tag yang mengatur tampilan halaman pada perangkat seluler dengan lebar yang sesuai dengan lebar perangkat dan faktor skala awal set ke 1.
+3. `<head>` : Ini adalah bagian dari dokumen yang berisi informasi tentang dokumen itu sendiri, seperti karakter set, judul halaman, dan tautan ke berkas CSS dan font.
 
-   - `<title>Document</title>`: Ini adalah judul halaman web yang akan ditampilkan di tab atau jendela browser.
+  --> 	`<meta charset="UTF-8" />`  
+        Ini adalah meta tag yang menentukan bahwa karakter set yang digunakan dalam halaman adalah UTF-8, yang mendukung sebagian besar karakter dan simbol dunia.
 
-   - `<style>`: Ini adalah elemen untuk menambahkan CSS langsung ke dalam halaman HTML. Dalam kasus ini, Anda mendefinisikan beberapa aturan gaya di dalam elemen ini.
+  --> 	`<meta name="viewport" content="width=device-width, initial-scale=1.0" />` 
+      Meta tag ini digunakan untuk mengatur tampilan situs web pada perangkat bergerak. Ini menginstruksikan perangkat untuk mengatur lebar halaman sesuai dengan lebar perangkat, dan tingkatkan skala tampilan awal menjadi 1.
 
-4. `<body>`: Ini adalah bagian utama dari halaman web yang berisi konten yang akan ditampilkan kepada pengguna.
+  -->	Tautan ke Google Fonts: Ini adalah tautan ke Google Fonts yang memuat jenis huruf yang akan digunakan dalam halaman web.
 
-   - `<ul style="display: flex !important">`: Ini adalah daftar tak terurut (unordered list) yang memiliki gaya CSS yang mengubah tampilan menjadi tata letak fleksibel. Atribut `style` mengatur tampilan CSS dengan properti `display: flex !important`, yang memberikan fleksibilitas dalam penataan elemen.
+  -->	`<link rel="stylesheet" href="css/style.css" />` 
+      Ini adalah tautan ke berkas CSS eksternal `(style.css)` yang akan mengatur tampilan halaman web.
 
-     - `<li>`: Ini adalah elemen daftar (list item) di dalam daftar. Masing-masing elemen ini adalah tautan menu.
+  --> `<title>Craft Merch Customized - Product</title>` 
+      Ini adalah judul halaman yang akan ditampilkan di tab browser.
 
-       - `<a href="index.html" class="" style="text-decoration: none; color: black; font-size: 1.5rem">Home</a>`: Ini adalah tautan (link) ke halaman "index.html" dengan teks "Home". Atribut `style` di sini mengatur tampilan CSS dengan properti seperti warna teks, dekorasi teks, dan ukuran font.
+4. `<body>` : Ini adalah elemen yang berisi semua konten yang akan ditampilkan di halaman web.
 
-       - `<a href="about.html" class="" style="text-decoration: none; color: black; font-size: 1.5rem">About</a>`: Ini adalah tautan ke halaman "about.html" dengan teks "About". Seperti sebelumnya, atribut `style` mengatur tampilan tautan.
+   -	`<nav class="navbar" style="padding-bottom: 30px">` : Ini adalah elemen navigasi (navbar) yang berisi logo dan menu navigasi.
 
-       - `<a href="#" class="active" style="text-decoration: none; color: black; font-size: 1.5rem">Shop</a>`: Ini adalah tautan saat ini, ditandai dengan kelas "active." Atribut `style` di sini juga mengatur tampilan tautan.
+    -	`<img src="image/Icon/logo.png" alt="" width="70" />` : Ini adalah gambar logo.
 
-       - `<a href="contact_us.html" class="" style="text-decoration: none; color: black; font-size: 1.5rem">Contact Us</a>`: Ini adalah tautan ke halaman "contact_us.html" dengan teks "Contact Us," dan juga memiliki atribut `style` yang mengatur tampilan.
+5. `<div class="container-navbar">` : Ini adalah div yang mengelompokkan elemen-elemen menu navigasi.
 
-   - `<br />`: Ini adalah elemen baris kosong (line break) untuk memberikan jarak di antara daftar dan elemen berikutnya.
+   -->  Daftar yang berisi tautan menu seperti `"Home," "Product," "About," dan "Contact."`
+   --> Beberapa tautan menu memiliki kelas `"prod-navbar."`
+   --> Ada juga ikon pencarian yang muncul saat di-klik. Sejumlah tautan login, registrasi, dan gambar lainnya.
 
-   - `<h2 style="margin-left: 60px">Halaman Shop</h2>`: Ini adalah judul level 2 (h2) yang menampilkan teks "Halaman Shop" dengan margin kiri sejauh 60 piksel.
+7. `<div id="search-box" style="display: none; margin-left: 780px; margin-top: -30px;">` : Ini adalah kotak pencarian yang awalnya tersembunyi (display: none) dan akan muncul saat diaktifkan. Terdapat elemen input yang digunakan untuk memasukkan kata kunci pencarian.
+
+8. `<div class="product-list" style="display: none; margin-top: -30px">` : Ini adalah daftar produk yang awalnya tersembunyi dan akan muncul saat diaktifkan. Ini berisi daftar tautan ke halaman produk seperti "T-Shirt," "Headwear," "Lanyard," dan "Totebag."
+
+9. `<section class="container-product">` : Ini adalah elemen bagian (section) yang mengelompokkan konten produk.
+
+10. `<div class="nav-product">` : Ini adalah div yang berisi breadcrumb (navigasi jalur) yang menunjukkan jalur menu. Misalnya, "Home," "Product," "T-shirt."
+
+11. `<div class="kolom-product">` : Ini adalah div yang berisi produk yang akan ditampilkan dalam kolom.
+
+    -	Dua kolom produk dengan gambar, daftar warna, dan informasi produk seperti nama dan harga.
+
+    -	Setiap produk juga memiliki tautan ke halaman detail produk terkait.
+
+5. `<footer>` : Ini adalah elemen footer yang berisi informasi tambahan dan tautan di bagian bawah halaman web.
+
+6. `<script src="js/script.js"></script>` : Ini adalah elemen script yang menghubungkan file JavaScript eksternal (script.js) yang digunakan untuk menambahkan fungsi interaktif ke halaman web.
+
 
 **e. CSS**
 
-1. **Pengaturan Global**:
+**1.	Reset Default Margins dan Padding**
 
-   - Bagian pertama dari kode CSS dimulai dengan pengaturan global. Ini mencakup pengaturan margin dan padding menjadi 0 untuk semua elemen di halaman web, termasuk elemen-elemen seperti `div`, `p`, `h1`, `ul`, `li`, dan lainnya.
+    `{
+     margin: 0;
+     padding: 0;
+   }`
+   
+Potongan kode di atas menghilangkan margin dan padding default dari semua elemen HTML. Ini sering digunakan sebagai langkah awal dalam pengembangan web untuk memastikan tampilan yang konsisten di berbagai browser.
 
-2. **Pengaturan Latar Belakang Halaman**:
+**2.	Mengatur Background, Overflow, Margin, dan Padding pada Body dan HTML**
+ 
+   `body, html {
+     background-color: rgba(102, 195, 163, 0.111);
+     overflow-x: hidden;
+     margin: 0;
+     padding: 0;
+     min-height: 1000px;
+   }`
+   
+-	`background-color` : Menetapkan warna latar belakang untuk elemen body dan html.
+-	`overflow-x: hidden;` : Menghilangkan scrollbar horizontal jika kontennya melebihi lebar layar.
+-	`margin: 0; dan padding: 0;` : Mengatur margin dan padding menjadi nol.
+-	`min-height: 1000px;` : Menetapkan tinggi minimum sebesar 1000 piksel untuk elemen body dan html.
 
-   - Setelah pengaturan global, Anda mendefinisikan pengaturan latar belakang untuk elemen `body` dan `html`. Latar belakangnya akan memiliki warna berdasarkan nilai RGBA (Merah-Hijau-Biru-Alpha) dan tinggi minimum halaman.
+**3.	Kelas-kelas CSS yang Digunakan**
+   Berikut adalah beberapa contoh kelas CSS yang digunakan dalam kode tersebut :
 
-3. **Gaya untuk Kelas-Kelas Umum**:
+-	`.d-flex` : Mengatur elemen agar menggunakan `display: flex;.`
+-	`.flex-wrap` : Mengatur elemen dengan `flex-wrap: wrap;.`
+-	`.align-i-center`: Mengatur elemen dengan `align-items: center;.`
+-	`.justify-c-center` : Mengatur elemen dengan `justify-content: center;.`
+-	`.justify-c-between` : Mengatur elemen dengan `justify-content: space-between;.`
+-	`.justify-c-around` : Mengatur elemen dengan `justify-content: space-around;.`
+-	`.justify-c-evenly` : Mengatur elemen dengan `justify-content: space-evenly;.`
+-	`.link-1, .link-2, .link-3, dst.` : Mengatur berbagai gaya tautan (link).
+-	`.button-1, .button-2, .button-3, dst.` : Mengatur berbagai gaya tombol.
+-	`.container-icon-link, .icon-link` : Mengatur ikon-ikon tautan sosial media.
+-	`.container-fluid, .row, .col-8, dst.`: Mengatur tata letak (layout) dan grid.
 
-   - Anda mendefinisikan beberapa kelas umum yang akan digunakan dalam elemen-elemen HTML, seperti `d-flex` (untuk display: flex), `align-i-center` (untuk mengatur perataan elemen sejajar tengah), dan sebagainya.
+**4. Font dan Teks**
 
-4. **Gaya untuk Link**:
+   Ada banyak deklarasi gaya teks dalam kode, seperti `font-family`, `font-size`, dan `font-weight` , yang digunakan untuk mengubah font dan ukuran teks berbagai elemen.
 
-   - Selanjutnya, Anda mendefinisikan tiga gaya yang berkaitan dengan tautan (link). `link-1`, `link-2`, dan `link-3` digunakan untuk mengatur tampilan tautan dengan variasi gaya. `link-2` memiliki efek hover yang mengubah warna latar belakang dan teks saat dihover.
+**5. Navigasi**
 
-5. **Gaya untuk Ikon Sosial Media**:
+   Ada kode yang berkaitan dengan gaya elemen navigasi (navbar) dan penggunaan sebelum dan sesudah saat mengarahkan kursor ke tautan.
 
-   - Anda mendefinisikan gaya untuk kontainer ikon sosial media (`.container-icon-link`) dan ikon-ikon itu sendiri (`.icon-link`). Pengaturan ini termasuk pengaturan ukuran, margin, border, dan efek hover yang mengubah latar belakang.
+**6. Gambar**
 
-6. **Gaya untuk Tata Letak**:
+   Terdapat beberapa pengaturan untuk gambar, termasuk transformasi gambar, efek hover, dan pemrosesan gambar untuk ikon sosial media.
 
-   - Bagian berikutnya dari kode mengatur tata letak dan sistem grid untuk halaman web. Anda menggunakan variabel seperti `--bs-gutter-x` dan `--bs-gutter-y` serta kelas-kelas seperti `.container-fluid`, `.row`, `.col-6`, dan lain-lain untuk mengatur tata letak dan ruang antar elemen.
+**7. Footer**
 
-7. **Gaya untuk Teks**:
+   Ada kode yang berhubungan dengan footer, termasuk pengaturan tampilan daftar produk yang muncul saat hover.
 
-   - Anda mendefinisikan berbagai gaya teks untuk judul, paragraf, dan elemen-elemen teks lainnya. Ini termasuk jenis font, ukuran, dan gaya huruf yang berbeda.
+**8. Breakpoints**
 
-8. **Gaya Navbar**:
+   Kode tersebut juga mencakup beberapa aturan untuk mengatur tampilan responsif dengan menentukan lebar kolom seperti `.col-8, .col-6,` dll.
 
-   - Anda mendefinisikan gaya untuk elemen-elemen dalam navbar. Ini mencakup pengaturan latar belakang navbar, elemen-elemen dalam daftar (list), dan efek hover yang mengubah bentuk elemen saat dihover.
+**f. Javascript**
 
-9. **Gaya untuk Halaman Beranda**:
+**1.	Bagian 1 : Menampilkan / Menyembunyikan Daftar Produk**
 
-   - Anda mendefinisikan gaya untuk elemen-elemen pada halaman beranda. Ini mencakup pengaturan posisi dan tampilan elemen-elemen seperti elips (ellipse) dan gambar-gambar.
+const product = document.querySelector(".prod-navbar");
 
-10. **Gaya untuk Halaman "About" dan "Contact Us"**:
+const productList = document.querySelector(".product-list");
 
-    - Anda menentukan latar belakang gambar untuk halaman "About" dan "Contact Us" dengan `.container-about` dan `.container-contact`.
+let timeoutId;
 
-11. **Gaya untuk Formulir Kontak (Contact Us)**:
+product.addEventListener("mouseenter", () => {
 
-    - Anda mendefinisikan gaya untuk elemen-elemen dalam formulir kontak (`.kolom-input`, `.input-contact`, `.input-contact-select`, dan tombol). Ini mencakup pengaturan margin, padding, dan latar belakang tombol saat dihover.
+    clearTimeout(timeoutId);
+    
+    productList.style.display = "block";
+    
+});
 
-12. **Gaya untuk Footer**:
-    - Terakhir, Anda mendefinisikan gaya untuk elemen-elemen dalam footer halaman web, termasuk latar belakang dan pengaturan padding.
+product.addEventListener("mouseleave", () => {
+
+    timeoutId = setTimeout(() => {
+    
+        if (!productList.matches(":hover")) {
+        
+            productList.style.display = "none";
+        }
+    }, 300);
+});
+
+productList.addEventListener("mouseenter", () => {
+
+    productList.style.display = "block";
+});
+
+productList.addEventListener("mouseleave", () => {
+
+    productList.style.display = "none";
+});
+
+--> Dalam bagian ini, Anda mendefinisikan interaksi untuk menampilkan daftar produk ketika pengguna mengarahkan kursor ke elemen dengan kelas `.prod-navbar` (mungkin elemen yang menggambarkan daftar produk).
+        
+  --> Saat kursor masuk (event mouseenter) ke elemen `.prod-navbar` , kode ini menghentikan timer timeoutId (jika ada) dan menampilkan elemen dengan kelas `.product-list.`
+        
+--> Saat kursor meninggalkan elemen `.prod-navbar` , kode mengatur timer yang akan menyembunyikan daftar produk setelah 300 milidetik jika kursor tidak mengarah ke daftar produk. Ini memberikan efek penundaan sebelum menyembunyikan daftar produk.
+
+--> Ketika pengguna mengarahkan kursor ke elemen `.product-list` , daftar produk akan ditampilkan (tanpa penundaan).
+        
+--> Saat kursor meninggalkan elemen `.product-list` , daftar produk akan disembunyikan.
+    
+**2.	Bagian 2 : Pengaturan Kotak Pencarian**
+
+const searchIcon = document.getElementById("search-icon");
+
+const searchBox = document.getElementById("search-box");
+
+searchIcon.addEventListener("click", () => {
+    if (searchBox.style.display === "block") {
+    
+        searchBox.style.display = "none"; // Tutup kotak pencarian jika sudah terbuka
+    } else {
+    
+        searchBox.style.display = "block"; // Tampilkan kotak pencarian jika belum terbuka
+    }
+    
+});
+
+--> Dalam bagian ini, kode ini menangani klik pada ikon pencarian.
+                
+  --> Saat ikon pencarian diklik, kode ini memeriksa apakah kotak pencarian `(searchBox)` sedang terbuka atau tidak berdasarkan properti `style.display.`
+                
+-->Jika kotak pencarian terbuka, kode akan menyembunyikannya dengan mengatur display menjadi `"none"` . Jika belum terbuka, kode akan menampilkannya dengan mengatur display menjadi `"block"` .
+
+**3.	Bagian 3 : Fungsi productScroll**
+
+"use strict";
+
+productScroll();
+
+function productScroll() {
+    // ...
+    
+}
+
+--> Ini adalah definisi dari fungsi  `productScroll.`
+
+  -->	Baris `"use strict"` adalah directive JavaScript yang mengaktifkan mode ketat, yang memungkinkan penanganan kesalahan yang lebih ketat dalam kode.    
+  
+--> Fungsi productScroll dipanggil dengan `productScroll();.`
+
+**4.	Bagian 4 : Logika Scroll Produk**
+
+function productScroll() {
+
+    let slider = document.getElementById("slider");
+    
+    let slide = document.getElementById("slide");
+    
+    let item = document.getElementById("slide");
+
+    for (let i = 0; i < next.length; i++) {
+    
+        //refer elements by class name
+
+        let position = 0; //slider postion
+
+        prev[i].addEventListener("click", function () {
+            //click previos button
+            
+            if (position > 0) {
+            
+                //avoid slide left beyond the first item
+                
+                position -= 1;
+                
+                translateX(position); //translate items
+                
+            }
+        });
+
+        next[i].addEventListener("click", function () {
+        
+            if (position >= 0 && position < hiddenItems()) {
+            
+                //avoid slide right beyond the last item
+                position += 1;
+                
+                translateX(position); //translate items
+            }
+            
+        });
+        
+    }
+    
+}
+
+--> Fungsi `productScroll` menginisialisasi slider produk dan menangani logika geser produk.
+        
+ -->	Ini mengatur variabel `slider`, `slide`, dan `item` untuk merujuk ke elemen-elemen dengan ID yang sesuai.
+        
+  -->	Loop for digunakan untuk mengatur event listener untuk tombol `"prev"` dan `"next"` yang mungkin ada.
+        
+--> Saat tombol `"prev"` diklik, kode memeriksa apakah slider masih dapat digeser ke kiri (ke produk sebelumnya) dan jika memungkinkan, kode akan menggeser slider dengan mengubah posisinya dengan memanggil `translateX.`
+        
+--> Saat tombol `"next"` diklik, kode memeriksa apakah slider masih dapat digeser ke kanan (ke produk selanjutnya) dan jika memungkinkan, kode akan menggeser slider dengan mengubah posisinya dengan memanggil `translateX.`
+
+**5.	Bagian 5 : Fungsi translateX**
+
+function translateX(position) {
+
+    //translate items
+    
+    slide.style.left = position * -210 + "px";
+    
+}
+
+--> Fungsi `translateX` digunakan untuk menggeser elemen produk dengan mengubah nilai properti left dari elemen slide.
+      
+--> Ini digunakan dalam bagian sebelumnya saat tombol `"prev"` atau `"next"` diklik untuk menggeser produk.
+
+**6.	Bagian 6 : Fungsi getCount**
+
+function getCount(parent, getChildrensChildren) {
+
+    //count no of items
+    
+    let relevantChildren = 0;
+    
+    let children = parent.childNodes.length;
+    
+    for (let i = 0; i < children; i++) {
+    
+        if (parent.childNodes[i].nodeType != 3) {
+        
+            if (getChildrensChildren)
+            
+                relevantChildren += getCount(parent.childNodes[i], true);
+                
+            relevantChildren++;
+            
+        }
+        
+    }
+    
+    return relevantChildren;
+    
+}
+
+--> 	Ini adalah fungsi bantu yang menghitung jumlah elemen (item) yang relevan dalam elemen yang diberikan.
+        
+     
+-->	Fungsi ini menerima dua argumen: parent adalah elemen yang akan dihitung, dan `getChildrensChildren` adalah boolean yang menentukan apakah harus menghitung juga elemen-elemen anak dari anak-anak elemen ini.
+        
+        
+-->    Fungsi ini mengembalikan jumlah elemen yang relevan dalam elemen parent. Itu digunakan untuk menghitung jumlah elemen dalam slider produk sehingga dapat menentukan berapa kali slider harus digeser.
+
