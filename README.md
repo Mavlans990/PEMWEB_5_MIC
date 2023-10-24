@@ -470,9 +470,9 @@ Berikut ini daftar istilah dan akronim yang dipakai pada dokumen SRS ini.
 
 **d. HTML Halaman Product:**
 
-Terdiri dari beberapa halaman product namaun, untuk source code pada halaman product sama, Untuk perbedaan di halamannya yaitu terletak pada gambarnya
+Terdiri dari beberapa halaman produk yang memiliki tampilan yang sama, Jadi menggunakan source code yang sama di semua halaman produk dengan menggantikan gambar produk sesuai dengan produk yang ditampilkan. 
 
-Berikut penjelasan  pada halaman T-Shirt : 
+Berikut penjelasan dari salah satu halaman yaitu halaman T-Shirt : 
 
 1. `<!DOCTYPE html>` : Ini adalah deklarasi tipe dokumen HTML, yang memberi tahu browser bahwa ini adalah dokumen HTML5.
 
