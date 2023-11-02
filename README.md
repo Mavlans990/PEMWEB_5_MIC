@@ -1,6 +1,6 @@
 # PEMPROGRAMAN WEB FINAL PROJECT
 
-# Kelompok 5 < MI 2022 C
+# Kelompok 5 MI 2022 C
 
 **Software Requirements Specification**
 
