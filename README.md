@@ -1,7 +1,5 @@
 # PEMPROGRAMAN WEB FINAL PROJECT
 
-https://mavlans990.github.io/PEMWEB_5_MIC/index.html
-
 # Kelompok 5 < MI 2022 C
 
 **Software Requirements Specification**
