@@ -781,4 +781,3 @@ function getCount(parent, getChildrensChildren) {
         
         
 -->    Fungsi ini mengembalikan jumlah elemen yang relevan dalam elemen parent. Itu digunakan untuk menghitung jumlah elemen dalam slider produk sehingga dapat menentukan berapa kali slider harus digeser.
-
