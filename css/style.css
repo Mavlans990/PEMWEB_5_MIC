@@ -84,6 +84,41 @@ html {
   background-color: rgb(3, 165, 157);
 }
 
+.link-4 {
+  background-color: rgb(255, 255, 255);
+  border: 2px solid rgba(0, 124, 117, 1);
+  border-radius: 15px;
+  padding: 8px 40px;
+  text-decoration: none;
+  font-family: "Livvic", sans-serif;
+  color: rgb(16, 59, 57);
+  font-size: 18px;
+  font-weight: 600;
+  transition: all 0.25s ease-out;
+}
+
+.link-4.active {
+  background-color: rgba(0, 124, 117, 1);
+  border: 0;
+  border-radius: 15px;
+  padding: 8px 40px;
+  text-decoration: none;
+  font-family: "Livvic", sans-serif;
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  transition: all 0.25s ease-out;
+}
+
+.link-4:hover {
+  background-color: rgba(0, 124, 117, 1);
+  color: white;
+}
+
+.link-4.active:hover {
+  background-color: rgb(3, 165, 157);
+}
+
 .button-1 {
   color: rgba(0, 0, 0, 0.6);
   font-family: "Actor", sans-serif;
@@ -595,8 +630,9 @@ html {
 
 .nav-product {
   display: flex;
-  align-items: center;
-  padding: 20px 80px 30px 80px;
+  justify-content: center;
+  /* align-items: center; */
+  padding: 30px 0;
 }
 
 .nav-product a {
@@ -620,11 +656,63 @@ html {
 }
 
 .color-product {
+  position: relative;
+  display: inline-block;
   width: 30px;
   height: 30px;
   margin: 0.8rem;
   border: 1px solid rgba(0, 0, 0, 0.2);
   border-radius: 50%;
+}
+
+.form-check {
+  display: block;
+  min-height: 1.5rem;
+  padding-left: 1.5em;
+  margin: 0.8rem;
+}
+
+.form-check-input {
+  --bs-form-check-bg: var(--bs-body-bg);
+  flex-shrink: 0;
+  width: 1em;
+  height: 1em;
+  margin-top: 0.25em;
+  vertical-align: top;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-color: var(--bs-form-check-bg);
+  background-image: var(--bs-form-check-bg-image);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  border: var(--bs-border-width) solid var(--bs-border-color);
+  -webkit-print-color-adjust: exact;
+  color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.form-check-input:checked {
+  border: 2px solid black;
+}
+
+.form-check-input:checked[type="radio"] {
+  --bs-form-check-bg-image: none;
+}
+
+.form-check-lg .form-check-input {
+  width: 2.1rem;
+  height: 2.1rem;
+}
+
+.form-check-input[type="radio"] {
+  border-radius: 50%;
+}
+
+.form-check .form-check-input {
+  float: left;
+  margin-left: -1.5em;
 }
 
 .info-product h1 {
@@ -783,7 +871,6 @@ footer {
   list-style-type: none;
   padding: 0;
   margin: 0;
-  
 }
 
 .product-list li {
@@ -795,7 +882,7 @@ footer {
   margin-top: 20px;
   padding: 10px 90px;
 }
-.product-list li a{
+.product-list li a {
   text-decoration: none;
   color: black;
 }
